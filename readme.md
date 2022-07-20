@@ -1,4 +1,4 @@
-<img src=".github/assets/badge.png" align="left" id="header">
+<img src=".github/assets/badge-lq.png" align="left" id="header">
 <div align="right">
 
 # Packed
