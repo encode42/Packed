@@ -69,3 +69,8 @@ No. Nor is this compatible with OptiFine resource packs.
 
 This modpack uses Sodium, Iris, etc.
 </details>
+
+### ©️ Credits
+This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
+
+The authors of these projects are not responsible if you encounter issues with them while using this modpack!
