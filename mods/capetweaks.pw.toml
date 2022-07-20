@@ -1,0 +1,14 @@
+name = "CapeTweaks"
+filename = "capetweaks-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PIG91bQ2/versions/1.0.1/capetweaks-1.0.1.jar"
+hash-format = "sha1"
+hash = "3cd611c187bbaf0b755054ef62758f385eec894d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "PIG91bQ2"
+version = "s17piKpb"

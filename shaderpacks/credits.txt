@@ -1,0 +1,4 @@
+Modifications to Complementary Shaders have been made. The shaderpack is not responsible if you encounter issues with them while using this modpack!
+
+Credits:
+Complementary Shaders: https://www.complementary.dev/

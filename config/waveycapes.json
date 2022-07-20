@@ -1,0 +1,8 @@
+{
+  "configVersion": 2,
+  "windMode": "NONE",
+  "capeStyle": "BLOCKY",
+  "capeMovement": "BASIC_SIMULATION",
+  "gravity": 25,
+  "heightMultiplier": 4
+}

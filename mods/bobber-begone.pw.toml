@@ -1,0 +1,14 @@
+name = "Bobber Begone"
+filename = "bobberbegone-1.0.0+1.16.5-1.19.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/setnaI8o/versions/1.0.0+1.16.5-1.19.x/bobberbegone-1.0.0%2B1.16.5-1.19.x.jar"
+hash-format = "sha1"
+hash = "a5336053ecb85f162d9ee3274bb316c3222c123a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "setnaI8o"
+version = "ngmDmIkS"

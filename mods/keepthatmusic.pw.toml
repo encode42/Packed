@@ -1,0 +1,14 @@
+name = "Keep That Music"
+filename = "keep-that-music-0.0.3 mc(1.16-1.18).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ybsVotd/versions/0.0.3/keep-that-music-0.0.3%20mc%281.16-1.18%29.jar"
+hash-format = "sha1"
+hash = "274b2b173a843ba384edd86ddb5b9f224f3fc317"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "5ybsVotd"
+version = "cgl7WplD"

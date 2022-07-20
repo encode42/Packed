@@ -1,0 +1,13 @@
+name = "Effective 💦"
+filename = "effective-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae7007d53d5ee15d9e46240c004acc5630eac676"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823332
+project-id = 556381

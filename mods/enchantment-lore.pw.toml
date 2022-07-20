@@ -1,0 +1,14 @@
+name = "Enchantment Lore"
+filename = "enchantment-lore-1.2.7+MC1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/1.2.7+MC1.19/enchantment-lore-1.2.7%2BMC1.19.jar"
+hash-format = "sha1"
+hash = "5314bb40c76af494eee0c3e9d4befd17c33d539b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "YHdR6hMt"
+version = "EtTLbnrv"

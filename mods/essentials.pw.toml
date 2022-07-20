@@ -1,0 +1,14 @@
+name = "Essentials"
+filename = "essentials-1.1.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gB4rugbH/versions/1.1.0+1.19/essentials-1.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "3c6bf3b5cc226d65b9200c991b81b06edfcfd237"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "gB4rugbH"
+version = "QY3IcYOD"

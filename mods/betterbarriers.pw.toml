@@ -1,0 +1,14 @@
+name = "Better Barriers"
+filename = "betterbarriers-1.0.0_.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fklStciH/versions/1.0.0/betterbarriers-1.0.0_.jar"
+hash-format = "sha1"
+hash = "faeac72f98bdd004fd0637cc3353458b13bbea49"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fklStciH"
+version = "JexKRRCz"

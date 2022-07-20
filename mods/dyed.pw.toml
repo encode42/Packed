@@ -1,0 +1,14 @@
+name = "Dyed"
+filename = "dyed-fabric-22w14a-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mFDTffy/versions/Fabric-22w14a-1.0.2/dyed-fabric-22w14a-1.0.2.jar"
+hash-format = "sha1"
+hash = "93926a6c0ee0cc1f09563291b66463c342b721da"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "5mFDTffy"
+version = "5gE9Qt2i"

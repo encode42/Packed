@@ -1,0 +1,14 @@
+name = "Mixin Conflict Helper"
+filename = "MixinConflictHelper-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MR1VIQJJ/versions/1.1.0/MixinConflictHelper-1.1.0.jar"
+hash-format = "sha1"
+hash = "623f8375bd90cb52d703104b3ec9daf0bec8368d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "MR1VIQJJ"
+version = "9VQzbSkm"

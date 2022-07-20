@@ -1,0 +1,14 @@
+name = "Shield Extensions(Fabric)"
+filename = "shield-extensions-1.0.2+mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J2upEK4n/versions/1.0.2-1.19/shield-extensions-1.0.2%2Bmc1.19.jar"
+hash-format = "sha1"
+hash = "2139703016715f9baf6928ed3ff950200920f8ea"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "J2upEK4n"
+version = "1ebDFxBv"

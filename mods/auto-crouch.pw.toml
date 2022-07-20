@@ -1,0 +1,14 @@
+name = "Auto Crouch"
+filename = "auto-crouch-mc1.19-3.0.0+build.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OcVQsnUW/versions/3.0.0/auto-crouch-mc1.19-3.0.0%2Bbuild.7.jar"
+hash-format = "sha1"
+hash = "e35418d56107c78246824c5c57ab683891dbc5ec"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "OcVQsnUW"
+version = "qYdh3svc"

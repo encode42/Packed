@@ -1,0 +1,14 @@
+name = "ExtraSounds"
+filename = "extrasounds-2.3.1+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/2.3.1/extrasounds-2.3.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "4d92e8203882899591d15fce2adf9f036c7ac8f9"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "meKuAXd9"

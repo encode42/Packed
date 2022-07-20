@@ -1,0 +1,3 @@
+# Include resourcepacks and shaderpacks
+!/resourcepacks/*.zip
+!/shaderpacks/*.zip
