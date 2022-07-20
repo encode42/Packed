@@ -141,11 +141,6 @@ hash = "517bdea3945777200eadeca59ca52176ead93a7e7708f209d4ab4eff50fb9f2a"
 metafile = true
 
 [[files]]
-file = "mods/ambient-environment.pw.toml"
-hash = "c9c1967ebdbca6e3f5607e4d99002d12fb3ac6a0e8ca21099450f59a6c2270cf"
-metafile = true
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "d45e033df1a9ebc0eb0d66f100f1773f1800ca7c53b07e5e6881ce38965eade0"
 metafile = true
@@ -183,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/beer.pw.toml"
 hash = "dad4119b843074e937cff7ed21c0c91f122b8d82033f64cc9358fea610404c25"
-metafile = true
-
-[[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2789719e8bcdd6d3038d8266cf5b93b4531e1eb321dcbcd31f4b93b8d9db42e4"
 metafile = true
 
 [[files]]
@@ -241,11 +231,6 @@ hash = "0e9e10bfa65e31e9fe0dfe9e4e4630bca31b12152e264c2d21461c3defaa9c66"
 metafile = true
 
 [[files]]
-file = "mods/cleanview-fabric.pw.toml"
-hash = "83f320d77aec26dc55fabe10156c1f08a911a504febd3e27c9df6a9ec6e4c906"
-metafile = true
-
-[[files]]
 file = "mods/clear-skies.pw.toml"
 hash = "4700c48ce4ddf2933e613a5871935da5a5d2d31f65fe4e81122b0441076494f1"
 metafile = true
@@ -253,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "777a760b75f526b9038a60aedb6da639100efae805ba73d089e332175d530c2b"
-metafile = true
-
-[[files]]
-file = "mods/clickable-advancements.pw.toml"
-hash = "af6db1874e3c74253df6b844190db03069adc1c86c2b77ebcd3769b8f837fd5a"
 metafile = true
 
 [[files]]
