@@ -54,9 +54,7 @@ Packed aims to keep to the vanilla style, while still providing improvements.
 For example, the provided shaderpack options don't make your game look like the latest AAA release.
 Instead, the shadows are pixelated, and effects aren't blown out of proportion. The visuals are still amazing, while sticking to "Minecraft".
 
-This also strives to achieve consistency between every element of the game. Information about enchanted books aren't included in the book's lore, rather contained *within* the book itself!
-
-Rather than using a mod such as JEI to list recipes, the recipe book is improved with many of the features from said mods.
+This also strives to achieve consistency between every element of the game. Information about enchanted books aren't included in the book's lore, rather contained *within* the book itself! Rather than using a mod such as JEI to list recipes, the recipe book is improved with many of the features from said mods.
 </details>
 
 <details>
@@ -70,13 +68,11 @@ This modpack uses Sodium, Iris, etc.
 </details>
 
 ### ©️ Credits
-**External Mods**
-
+**External Mods**  
 - [Illuminations](https://github.com/ladysnake/illuminations)
 - [Effective](https://github.com/Ladysnake/Effective)
 
-**External Resources**
-
+**External Resources**  
 This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
 
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!
