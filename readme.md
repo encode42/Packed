@@ -71,10 +71,12 @@ This modpack uses Sodium, Iris, etc.
 
 ### ©️ Credits
 **External Mods**
+
 - [Illuminations](https://github.com/ladysnake/illuminations)
 - [Effective](https://github.com/Ladysnake/Effective)
 
 **External Resources**
+
 This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
 
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!
