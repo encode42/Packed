@@ -5,11 +5,11 @@
 ### Various visual, auditory, and improvement mods packed into the client.
 </div>
 
-This modpack focuses on improving the client-side experience. All mods work independently from servers!
+This modpack focuses on improving the client-side experience. All mods work independently of servers!
 
 ### ⚙️ Features
 **Performance improvements**
-- Utilizes the CaffeineMC suite of optiomization mods
+- Utilizes the CaffeineMC suite of optimization mods
 - Utilizes Iris for fast shaders
 - Includes lesser-known performance tweaks
 - Game starts within seconds
@@ -20,7 +20,7 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Environmental particles
 - Improved weather in all biomes via particles
 - Player capes and cosmetics from many platforms
-- Armor bar reflects whats being worn
+- Armor bar reflects what''s being worn
 
 **Auditory improvements**
 - Ambient biome sounds
@@ -34,12 +34,15 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Pick-block can copy more information
 - Chatbox spell-checking
 - Improved controls options menu
-- General bugfixes
+- General bug fixes
 
 **...and more!**
 
 I did not make any of the projects that make this modpack possible.  
 Make sure to give some love to the authors of the projects listed in [/mods](/mods), [/resourcepacks](/resourcepacks), and [/shaderpacks](/shaderpacks)!
+
+Unfortunately, some mods I wanted to include do not permit re-distribution.
+- [Better Fps - Render Distance](https://github.com/someaddons/betterfpsdistances)
 
 ### ❔ FAQ
 <details>
@@ -50,7 +53,7 @@ Make sure to give some love to the authors of the projects listed in [/mods](/mo
 Packed aims to keep to the vanilla style, while still providing improvements.
 
 For example, the provided shaderpack options don't make your game look like the latest AAA release.
-Instead, the shadows are pixelated, and effects aren't blown out of porportion. The visuals are still amazing, while sticking to "Minecraft".
+Instead, the shadows are pixelated, and effects aren't blown out of proportion. The visuals are still amazing, while sticking to "Minecraft".
 
 This also strives to achieve consistency between every element of the game. Information about enchanted books aren't included in the book's lore, rather contained *within* the book itself!
 
