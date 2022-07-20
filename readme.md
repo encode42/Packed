@@ -1,13 +1,21 @@
+[Modrinth]: https://modrinth.com/modpack/packed
+[Modrinth Downloads Badge]: https://img.shields.io/modrinth/dt/packed?label=Downloads&style=flat-square
+[Support]: https://encode42.dev/support
+[Support Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square
+
 <img src=".github/assets/badge-lq.png" align="left" id="header">
 <div align="right">
 
 # Packed
 ### Various visual, auditory, and improvement mods packed into the client.
+
+[![Modrinth Downloads Badge]][Modrinth]  
+[![Support Badge]][Support]
 </div>
 
+### ⚙️ Features
 This modpack focuses on improving the client-side experience. All mods work independently of servers!
 
-### ⚙️ Features
 **Performance improvements**
 - Utilizes the CaffeineMC suite of optimization mods
 - Utilizes Iris for fast shaders
