@@ -18,9 +18,9 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Dark mode
 - Vanilla-styled shaderpack options
 - Environmental particles
-- Improved weather in all biomes via particles
-- Player capes and cosmetics from many platforms
-- Armor bar reflects what''s being worn
+- Improved weather in all biomes
+- Player capes and cosmetics
+- Armor bar reflects what's being worn
 
 **Auditory improvements**
 - Ambient biome sounds
@@ -33,7 +33,6 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Easier editing of NBT, command blocks, and books
 - Pick-block can copy more information
 - Chatbox spell-checking
-- Improved controls options menu
 - General bug fixes
 
 **...and more!**
@@ -71,6 +70,11 @@ This modpack uses Sodium, Iris, etc.
 </details>
 
 ### ©️ Credits
+**External Mods**
+- [Illuminations](https://github.com/ladysnake/illuminations)
+- [Effective](https://github.com/Ladysnake/Effective)
+
+**External Resources**
 This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
 
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!
