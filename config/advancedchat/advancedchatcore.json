@@ -13,7 +13,7 @@
     "profanityWordBoundaries": false
   },
   "chatscreen": {
-    "persistentText": true,
+    "persistentText": false,
     "color": "#64000000",
     "moreText": false
   },
