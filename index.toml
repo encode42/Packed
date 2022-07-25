@@ -113,6 +113,10 @@ file = "config/sodium-options.json"
 hash = "053c71867f5899ce9747479d47b7463db96c16fa29ed60784351012ed65937f2"
 
 [[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "f4defa9ace973ad2f386b3dd2efa78cd17526531a2fda0b750c8feff11db1fd1"
+
+[[files]]
 file = "config/stendhal/stendhal.properties"
 hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
 
