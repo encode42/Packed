@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/advancedchat/advancedchatcore.json"
-hash = "a70a77c4a92435c0e9c073fab951e6eea7b4fd6875bb8558b2d3aaefbe36b352"
+hash = "6392ecb12540f633d357fcab4c952564599e01f1ac754834f7f02590940309d6"
 
 [[files]]
 file = "config/authme.json5"
@@ -26,7 +26,7 @@ hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
 
 [[files]]
 file = "config/clienttweaks.toml"
-hash = "0cf8c6fdd23a9de9a89d8a7ba0697c8b6eb4d9541679128d3da5a7476b5f1ee9"
+hash = "c88f31ef1c21f716a462b44c87f87b543fb0c70c9f68e092e9799cfef1e4477b"
 
 [[files]]
 file = "config/cosmetica/cosmetica.properties"
@@ -106,7 +106,7 @@ hash = "a3950ba55fca335d4e7ed680adfe8938a73a6b9730e7f4a0f36b25c35f193419"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "561ee7dae2b47e1245a657c753b249b6dd181ef427689c04965200e598bb8aab"
+hash = "c842dabe62dd3b4fc0dc4e5dc6f9d3a01f89520bd5c0ef44d257f2e9104a16b8"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -178,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/beer.pw.toml"
 hash = "dad4119b843074e937cff7ed21c0c91f122b8d82033f64cc9358fea610404c25"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "113e971e1a3d588d43beedef5702d8dd40abf150d99b6d0d82f39c2bc381335d"
 metafile = true
 
 [[files]]
@@ -486,6 +491,11 @@ hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "d14b86bde70a3fd9b75c57eead234c7d055d7d3afc0f4076197dc36a8092f85f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "adc0c8bf75a742bb5c296e93098ac1e461586ff81682c244d772162482196c5b"
 metafile = true
@@ -618,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "9f8e585161de42fe656f5a6f9719ea04d441c05579a46bcea549dbbc2cc723a8"
 metafile = true
 
 [[files]]
