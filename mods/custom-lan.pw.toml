@@ -3,12 +3,11 @@ filename = "custom-lan-1.19-v2.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/1.19-v2.0.2/custom-lan-1.19-v2.0.2.jar"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/1.19-v2.0.2-1.19.1/custom-lan-1.19-v2.0.2.jar"
 hash-format = "sha1"
-hash = "0de1163052c2f4a9bad0046be0cec1663b84c74d"
-mode = ""
+hash = "1746c09fa5977b28952bc606fe3b3f9d8ea85647"
 
 [update]
 [update.modrinth]
 mod-id = "OCvCFPNR"
-version = "eH0chh3r"
+version = "5DZWes05"

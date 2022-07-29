@@ -1,0 +1,13 @@
+name = "AdvancedChatBox"
+filename = "AdvancedChatBox-1.19-1.1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8WeCY8Xd/versions/1.19-1.1.5/AdvancedChatBox-1.19-1.1.5.jar"
+hash-format = "sha1"
+hash = "db00d50ab4fc10b7592d353574746e226a3bf103"
+
+[update]
+[update.modrinth]
+mod-id = "8WeCY8Xd"
+version = "9lFAhgtP"
