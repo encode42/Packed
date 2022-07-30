@@ -1,14 +1,13 @@
 name = "Blanket"
-filename = "Blanket Client tweaks-1.1.0-SNAPSHOT-build.17.jar"
+filename = "Blanket Client tweaks-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gxpkKtVH/versions/1.1.0-SNAPSHOT-build.17/Blanket%20Client%20tweaks-1.1.0-SNAPSHOT-build.17.jar"
+url = "https://cdn.modrinth.com/data/gxpkKtVH/versions/1.1.1/Blanket%20Client%20tweaks-1.1.1.jar"
 hash-format = "sha1"
-hash = "89c06032af88218c861a850deace5270085be8a1"
-mode = ""
+hash = "c559d9999d18ce20e7b6d1a20ed501b7d84c7be9"
 
 [update]
 [update.modrinth]
 mod-id = "gxpkKtVH"
-version = "u6ALElyW"
+version = "oxqjiYqo"

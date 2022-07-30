@@ -1,0 +1,13 @@
+name = "Organized Tabs [Fabric]"
+filename = "organized-tabs-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8N5lDLoF/versions/1.0.1_1.19.1/organized-tabs-1.0.1.jar"
+hash-format = "sha1"
+hash = "5e309af51ec7b0a978f1aa317b5edb1048c1b24c"
+
+[update]
+[update.modrinth]
+mod-id = "8N5lDLoF"
+version = "tYkvSZ56"
