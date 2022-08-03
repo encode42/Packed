@@ -1,14 +1,14 @@
 name = "EasierVillagerTrading"
-filename = "easiervillagertrading-1.19-fabric0.53.3-1.5.4.jar"
+filename = "easiervillagertrading-1.19.1-fabric0.58.5-1.5.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ChscgScW/versions/1.19-fabric0.53.3-1.5.4/easiervillagertrading-1.19-fabric0.53.3-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/ChscgScW/versions/1.19.1-fabric0.58.5-1.5.4/easiervillagertrading-1.19.1-fabric0.58.5-1.5.4.jar"
 hash-format = "sha1"
-hash = "c9f02bcad227a730aac030b861e4284f0a0f8817"
+hash = "5df7c30b1ab95250238ac86327c1106a66732de2"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "ChscgScW"
-version = "dlH8trdN"
+version = "kEcP0ni2"

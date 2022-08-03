@@ -1,14 +1,14 @@
 name = "Suggestion Tweaker"
-filename = "suggestion-tweaker-1.19-1.2.1.jar"
+filename = "suggestion-tweaker-1.19.1-1.3.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBLj38R0/versions/1.19-1.2.1/suggestion-tweaker-1.19-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/1.19.1-1.3.1+fabric/suggestion-tweaker-1.19.1-1.3.1-fabric.jar"
 hash-format = "sha1"
-hash = "bfe1f3e7c488d767ab3bd55a117819892123e375"
+hash = "3b272c42ed831db83f6990c78e7144f205bcc6c6"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "MBLj38R0"
-version = "ellmLzvg"
+version = "kgF1KR0Q"
