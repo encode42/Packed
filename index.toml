@@ -297,11 +297,6 @@ hash = "e72804e98c9a46da6117d69d506e78190420d1e1de58823d775e071eb96fe354"
 metafile = true
 
 [[files]]
-file = "mods/custom-lan.pw.toml"
-hash = "0b1101e524f70582e59c30198445cdd62c1f1f202b66f802077f5b45cfb21c81"
-metafile = true
-
-[[files]]
 file = "mods/dark-graph.pw.toml"
 hash = "482b8b1f632e2cc78dcb71b53dbfc511606cc6b8a2f257245633016c4b0fd8ed"
 metafile = true
@@ -313,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "fa2479950be36ecd7192b2f1b297fcec8fd7f6f0f1f45d1eef4ea712b0736c11"
+hash = "8bf139edf67496c0a407b6e2631286b667f694720755e806d416e9e3e22c11c1"
 metafile = true
 
 [[files]]
@@ -533,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
+hash = "c9d9167880bfc8aaf35baa869a5272ef3f99bb165915da5f1ac30b0426bec3d2"
 metafile = true
 
 [[files]]
@@ -563,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/norefreshscroll.pw.toml"
-hash = "63b162bd79aa8b7ea250e9c66c9e2164182d2511bb0d79c26f68e720733d8396"
+hash = "6bad77d698204ec647d78e20dc6ecfe3880a3b866874dbfaa9b51f61767eb276"
 metafile = true
 
 [[files]]
@@ -613,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "caa45f31db61fe24885995ce61d6fbbfd688e4e2abf03fd669c509b89a888953"
+hash = "c2d88cdfafb333776004c1ced9e9d3a5e1c2496a57d4f112a58f1f4992715a2c"
 metafile = true
 
 [[files]]
@@ -663,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "bc44c01be415fb8c01f4fc1dd58ee4f385f175fbd20d511b0961f380f09d89fb"
+hash = "3443ceba3e45b748a9650c5dfb3ba45240a8ca9042c6ba1bbd665dbf6f6ede61"
 metafile = true
 
 [[files]]

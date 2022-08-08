@@ -1,14 +1,14 @@
 name = "Packed"
 author = "Encode42"
-version = "3.0.0"
+version = "4.0.0"
 description = "Various visual, auditory, and improvement mods packed into the client."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b05528a463142cdc491e6f7ea742d9525e3e084c5e21b29f31c29339a19e4df"
+hash = "16e961f4eda43decbad49454610f92a438aedbd47b2ce224d7c6d0c83b586e84"
 
 [versions]
-minecraft = "1.19.1"
-quilt = "0.17.1"
+minecraft = "1.19.2"
+quilt = "0.17.2-beta.2"
