@@ -732,7 +732,3 @@ hash = "fea559e87674d100e1353d6ee7189656715ffdbcb8d31f8b3a047c469e6c1a60"
 [[files]]
 file = "shaderpacks/credits.txt"
 hash = "dcfb536e6936c1acf431a095a1bc763c0e47f342937ba0de16fe6107ad26f2a0"
-
-[[files]]
-file = "util/listOutdated.sh"
-hash = "2145cd21eb382e7377872500681904528c42d31e03dd14971771743386518305"
