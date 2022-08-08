@@ -105,6 +105,10 @@ file = "config/particle-blocker.json"
 hash = "c13856f06c906b6c72932d2a7343ffa3443eeae9a31f07cb2c680b91f593d2ee"
 
 [[files]]
+file = "config/purpurclient.conf"
+hash = "27d6e5394fd77f6aab442e52d8e15f399d08eaecd1066da179dcdfbe714bd338"
+
+[[files]]
 file = "config/shield_extensions.json"
 hash = "004e1dc8ae3fcb9bf6d0e3d0e02349223ea6a4f1411e3ec01c79dca913c614a5"
 
