@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpurclient.pw.toml"
-hash = "d7114c339736469e3089ef1bca817590686f5860a07acee24819c804af0c52a1"
+hash = "d1d012bc5e91e0fbc27c88c837b544efa82d284c4f972c34b9339ee4b3451303"
 metafile = true
 
 [[files]]
