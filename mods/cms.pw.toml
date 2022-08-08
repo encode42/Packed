@@ -1,0 +1,14 @@
+name = "Colour My Servers"
+filename = "colour-my-servers-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jvD1YGIh/versions/v1.0.1/colour-my-servers-1.0.1.jar"
+hash-format = "sha1"
+hash = "9029ea42b597d580cb690fb0b43abfdeaeb7aaa6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "jvD1YGIh"
+version = "IkIaBfhQ"

@@ -1,14 +1,14 @@
 name = "Shield Extensions(Fabric)"
-filename = "shield-extensions-1.0.2+mc1.19.jar"
+filename = "shield-extensions-1.0.3-mc1.19.x.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J2upEK4n/versions/1.0.2-1.19/shield-extensions-1.0.2%2Bmc1.19.jar"
+url = "https://cdn.modrinth.com/data/J2upEK4n/versions/1.0.3-1.19.x/shield-extensions-1.0.3-mc1.19.x.jar"
 hash-format = "sha1"
-hash = "2139703016715f9baf6928ed3ff950200920f8ea"
+hash = "8ef01a195590ae7f17d20deadb25b898c783c1c7"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "J2upEK4n"
-version = "1ebDFxBv"
+version = "3aLL5mTr"
