@@ -332,6 +332,11 @@ hash = "37c821a968a27be827c1bcd5fbf78718bc541a51e7c501bd8989af6202ca7b0f"
 metafile = true
 
 [[files]]
+file = "mods/disablemessagedeletion.pw.toml"
+hash = "3a5f42fcf1bba94ddbc749af3249b5e83639fa06c1ab17d7611439f8c49e4320"
+metafile = true
+
+[[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "026120ebd7c31fbb0f568bf48deaae1a13535e60e80b93f55bb0bb8a7aba1911"
 metafile = true
@@ -398,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "ca278ae4aeb7284abdca5d64a0cd2520528f47d11ef4e4e1766267771b169084"
+hash = "b91bc04619eaadf66c9fa46435ffd7bc64f9aaf40745854d0d1b0a64f3031460"
 metafile = true
 
 [[files]]
@@ -438,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "a4434fd31457968b00c480894087083d404156b03fd82b832868622992ddb16e"
+hash = "406a97638cec8547e8891ef0948f76f35d035cf25116de54dfbe5f45c1c0e388"
 metafile = true
 
 [[files]]
@@ -588,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
-hash = "48732ce744fe399ebe4b68a429e6e43d9343ec13096f3e1a0daaeff2cad8a586"
+hash = "d7875921645398147d2c9e130943d90ec6a25b2b364fca62700b89e56448a577"
 metafile = true
 
 [[files]]
@@ -637,6 +642,11 @@ hash = "0a7d25e7763f173eb42913ea327b6d8781e716b1d0dbf80d24dfe7898b917bc1"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "d50fc05854eb3ff3bfad2acc38610941dbd7bda8eee8b3d08712940561b46b2e"
+metafile = true
+
+[[files]]
 file = "mods/roundaround-axolotl-buckets.pw.toml"
 hash = "8eca8b7e6b15874dc1578d31211256d4da942db91dfcec5fc19f2905acf11ff1"
 metafile = true
@@ -658,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "3443ceba3e45b748a9650c5dfb3ba45240a8ca9042c6ba1bbd665dbf6f6ede61"
+hash = "83eeeaf18ac1041313aa31a13b8508114ae2efecf715950e4c505f4d2b08b4ba"
 metafile = true
 
 [[files]]

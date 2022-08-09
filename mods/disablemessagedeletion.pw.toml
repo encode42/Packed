@@ -1,0 +1,14 @@
+name = "DisableMessageDeletion"
+filename = "disablemessagedeletion-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GvKmrjbf/versions/1.0.0/disablemessagedeletion-1.0.0.jar"
+hash-format = "sha1"
+hash = "5977d9fe9568d91d492c2cc1cad3a9e4f40f9f9e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "GvKmrjbf"
+version = "TsWZmmbr"
