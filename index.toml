@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/disablemessagedeletion.pw.toml"
-hash = "3a5f42fcf1bba94ddbc749af3249b5e83639fa06c1ab17d7611439f8c49e4320"
+hash = "1952937ce54b7d72d9d2783f8b2b3b14cbcd2094709ec67c42b886e9f7ae9953"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "b91bc04619eaadf66c9fa46435ffd7bc64f9aaf40745854d0d1b0a64f3031460"
+hash = "ca278ae4aeb7284abdca5d64a0cd2520528f47d11ef4e4e1766267771b169084"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "406a97638cec8547e8891ef0948f76f35d035cf25116de54dfbe5f45c1c0e388"
+hash = "45d7f41230f18967037654811ccc5b90b9ee6414356df2d04ca410a16d5b1eb9"
 metafile = true
 
 [[files]]
@@ -602,11 +602,6 @@ hash = "f730f38821ae1ac9e274560491e0ecee067aa156a38704e0b34115b7e7f62d87"
 metafile = true
 
 [[files]]
-file = "mods/particles.pw.toml"
-hash = "11a3633d1c9ff0565f2c4fb0366f0856dd82558a05b465b5b984393e01a7d3ce"
-metafile = true
-
-[[files]]
 file = "mods/pick-block-pro.pw.toml"
 hash = "f2ae321b2dd324fa361fa590f0683256a5ba28828b274f56e4cbfbed6302d52b"
 metafile = true
@@ -643,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "d50fc05854eb3ff3bfad2acc38610941dbd7bda8eee8b3d08712940561b46b2e"
+hash = "66b302c41f642c3b3d06cf3c3a0337929a2b462f61101b5f737619cb21341760"
 metafile = true
 
 [[files]]
