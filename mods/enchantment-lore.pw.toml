@@ -1,14 +1,14 @@
 name = "Enchantment Lore"
-filename = "enchantment-lore-1.2.10+MC1.19.1-1.19.2.jar"
+filename = "enchantment-lore-1.3.0-b1+MC1.19.1-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/1.2.10+MC1.19.1-1.19.2/enchantment-lore-1.2.10%2BMC1.19.1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/YHdR6hMt/versions/1.3.0-b1+MC1.19.1-1.19.2/enchantment-lore-1.3.0-b1%2BMC1.19.1-1.19.2.jar"
 hash-format = "sha1"
-hash = "51e15d66104671999f7c08863160504fdb1cccac"
+hash = "c1711901e03df93857f79c93047409cf368e21b6"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "YHdR6hMt"
-version = "rjym79fx"
+version = "7uXZ14c0"

@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2554c1667ade0854f69ab2f6caec2ab7cc57fef5523cec8966ea106ab0a5ae3b"
+hash = "13d0caf7b5c6c5e31f44a48bbdbbe9f6a79dadc12d911620fd3de0e50c139677"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "e72804e98c9a46da6117d69d506e78190420d1e1de58823d775e071eb96fe354"
+hash = "e316d07ad20a32b08dddd54f6a8b909f5bb6d53ca0206cef3f2d96b256f20dee"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
-hash = "026120ebd7c31fbb0f568bf48deaae1a13535e60e80b93f55bb0bb8a7aba1911"
+hash = "608df5ba2c1ac89e03adadae8c92900214d5e4c4f9aaa7b5f483a64ee7c77866"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-lore.pw.toml"
-hash = "566b90c2fd5e9da9caff21893b94434616998bcf1a555f3be4cf288a812f9f95"
+hash = "e8d0b6e8f2950a6339f54e9f78d83d30ebf0caa5d7ea6a112e35c09687f25abc"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a8e0e592074605b712b5a302a0280e0ecac9521519c194291974c80b53237ea4"
+hash = "13a0be2b21a37f8344229ed62b7ee1123012de6a579185c3924e3b1dbd97734e"
 metafile = true
 
 [[files]]
@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c2d88cdfafb333776004c1ced9e9d3a5e1c2496a57d4f112a58f1f4992715a2c"
+hash = "0e63176e8c29d92d7b2c586108f9c8e8a3a938a1c95b6a7df9d1ada61db22746"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "32268307c634aec050fbb601c5d87af03f10553f45e17ce8daa1dfcba8a75c92"
+hash = "51e481a8e84f9e8ebba0c0b2b4c006ded891606c3dd022848047381c52e0001e"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "83eeeaf18ac1041313aa31a13b8508114ae2efecf715950e4c505f4d2b08b4ba"
+hash = "7ec17f6747f03455089858f0697662d5e6a6ebedf90b5f5abacd5406b3fde147"
 metafile = true
 
 [[files]]
