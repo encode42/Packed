@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/advancedchat/advancedchatbox.json"
-hash = "ce5f93ec4ba87e01b3a308e8ad557d81697cf6e6fbafc1fdd339bdf991510487"
+hash = "e64f26002f8c47a012f487a023eced6ee71c7f72b7bdd7dc488632083ca14404"
 
 [[files]]
 file = "config/advancedchat/advancedchatcore.json"
@@ -93,6 +93,14 @@ file = "config/modmenu.json"
 hash = "e7106ac7c1d374cb9f71d4058fc35dd7b0cb7e335aaa293326c7ddf1702d60bd"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "1764be59da0518d9980c2fd4bcdbefdba90de8abb407bfcd103a35c3d20b593a"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "9718cebdf0f474168f77fd066926220110340e962803cf8b22b6afbe77592a04"
+
+[[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "7097ae2af6a8c467ca9c3329d837873f6f1d8209d03d81526270e6acab96b9ba"
 
@@ -107,6 +115,10 @@ hash = "c13856f06c906b6c72932d2a7343ffa3443eeae9a31f07cb2c680b91f593d2ee"
 [[files]]
 file = "config/purpurclient.conf"
 hash = "27d6e5394fd77f6aab442e52d8e15f399d08eaecd1066da179dcdfbe714bd338"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "0cdb650228c159f77a3d3f059b3275ed4ffe2e1434637ce1348c171556603d98"
 
 [[files]]
 file = "config/shield_extensions.json"
