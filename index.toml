@@ -9,6 +9,10 @@ file = "config/advancedchat/advancedchatcore.json"
 hash = "6392ecb12540f633d357fcab4c952564599e01f1ac754834f7f02590940309d6"
 
 [[files]]
+file = "config/afkpeace/config.toml"
+hash = "0f11ce89a00e2e0a1a529af299695a3d4a0d051fa6ede5a7333e1c580d5d298f"
+
+[[files]]
 file = "config/authme.json5"
 hash = "11255e78e6713fdb1128d9199159b0de3cfb51dce86889a59ec23e0bc9362851"
 
@@ -19,6 +23,10 @@ hash = "3e3a1894308385a703a228988facbc2ecf77da903866b362f7b58f972635ad59"
 [[files]]
 file = "config/brb.toml"
 hash = "cda78933889768f8b8aadbff4838a9e6490430afae9c7f9b8ac504d6d1a6f2b5"
+
+[[files]]
+file = "config/capes.json5"
+hash = "82f2a0388329a69f810445e49133a4237e4ea23de407aebe2d11a12c6cf74082"
 
 [[files]]
 file = "config/capetweaks.properties"
@@ -78,7 +86,7 @@ hash = "794567def4c57c9e1a18e34e2dd2e8a30eb02aae60ca4d175ad7120645170999"
 
 [[files]]
 file = "config/iris.properties"
-hash = "32f9c6cc629764553caaaae4a691675e352103b1e0c83bb64720b030e72a8785"
+hash = "43d811163ae45a2289a74204ffaa2f2e78f213a563a7235d037514cc8d2d6116"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -118,7 +126,7 @@ hash = "27d6e5394fd77f6aab442e52d8e15f399d08eaecd1066da179dcdfbe714bd338"
 
 [[files]]
 file = "config/replaymod.json"
-hash = "0cdb650228c159f77a3d3f059b3275ed4ffe2e1434637ce1348c171556603d98"
+hash = "169f1c97ae16c72b7a509a6e441ca200124b5423bf1ece41999e11b85b602ea1"
 
 [[files]]
 file = "config/shield_extensions.json"
@@ -171,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "517bdea3945777200eadeca59ca52176ead93a7e7708f209d4ab4eff50fb9f2a"
+metafile = true
+
+[[files]]
+file = "mods/afkpeace.pw.toml"
+hash = "4c033311ee56f1b2fd4601d6d7f80e1c82cb5afbc41a1794f69670bc4941fce4"
 metafile = true
 
 [[files]]
@@ -254,6 +267,11 @@ hash = "7cd505e84be05b0cb14eca5c93049522a1711fd2d5ab95483bfee53c7207a52f"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "d34f349d77f57ac0d6ae7c61424eff4380eed46b4d2e5177fa09b3071c250d9d"
+metafile = true
+
+[[files]]
 file = "mods/capetweaks.pw.toml"
 hash = "f9f96dd5ed7fbacdd3fb16cc572ac045350449bd9a03ba08b20c9a6931e882cd"
 metafile = true
@@ -261,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "6b262ef4a5b0ebeb3f4bc40122511f26b912d869ab41d578510982842f140590"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "00032e9c1ab06a1846d26b683b2e5f279194d19d6516c9b77c13d5346305609f"
 metafile = true
 
 [[files]]
@@ -306,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/command-block-ide.pw.toml"
 hash = "ebf853b7e78c731db4c633e32963b9886088a62199c457687340cd73e73077c7"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "e316d07ad20a32b08dddd54f6a8b909f5bb6d53ca0206cef3f2d96b256f20dee"
 metafile = true
 
 [[files]]
@@ -720,23 +738,27 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2534fae34eac2ce14a1d3da3ac155a87f88e4366dbbd7a93b23ddeec260b311b"
+hash = "c7b8ce899bb1c0057f873d42c4ca96f6013461d272ca4faf2dd1e0ffe1017565"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r284563.zip"
 hash = "eec221c6da88593512e4ada242c001f3bf991cba253fa804b888ac5005fe0093"
 
 [[files]]
+file = "resourcepacks/all-the-fish.zip"
+hash = "3f98b1443832aa1aa560560d04c5a2dc9f243af86de2e72c21b2e07cb1695a59"
+
+[[files]]
 file = "resourcepacks/credits.txt"
-hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
+hash = "7164149e61fee6832191c37d5fa4a3dab5d8f567fb1f6f11db5544271a5d8cce"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip"
-hash = "329606ba016eb7e880c7360bef80b6701e3e0825a90ef14d009b3db89655f792"
+file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"
+hash = "127da40e68b823779b14c9de8b882552c9161bec8aa0dfcf06f0dc2ac3799e17"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip.txt"
-hash = "59c12346d7c593740ae69d14655ab9bc3ca4e3560a7c401b22cbe53f0fa68869"
+file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip.txt"
+hash = "ab3c65a9a0a076d1ca830dfd24ab54192bae7a4e906c7aec3c35ec971e0bc488"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.1.zip"

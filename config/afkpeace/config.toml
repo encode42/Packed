@@ -1,0 +1,23 @@
+
+[toggles]
+	# default: false
+	autoAfk = true
+	# default: false
+	reconnectEnabled = true
+	# default: false
+	damageLogoutEnabled = true
+	# default: true
+	featuresEnabledIndicator = false
+
+[configurations]
+	# default: 300
+	autoAfkTimerSeconds = 300
+	# default: false
+	reconnectOnDamageLogout = false
+	# default: 3
+	secondsBetweenReconnectAttempts = 30
+	# default: 10
+	reconnectAttemptNumber = 5
+	# default: 20
+	damageLogoutTolerance = 20
+

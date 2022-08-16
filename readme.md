@@ -83,4 +83,12 @@ This modpack uses Sodium, Iris, etc.
 **External Resources**  
 This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
 
+Shader Packs:
+- [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
+- [Complementary Shaders Version 4](https://www.complementary.dev/shaders-v4/)
+
+Resource Packs:
+- [VanillaTweaks](https://vanillatweaks.net/)
+- [ALL THE FISH](https://modrinth.com/resourcepack/all-the-fish)
+
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!

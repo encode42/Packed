@@ -1,6 +1,6 @@
 {
   "core": {
-    "notifications": true
+    "notifications": false
   },
   "advanced": {
     "recordingPath": "./replay_recordings/",
@@ -22,7 +22,7 @@
     "indicator": false,
     "autoStartRecording": true,
     "autoPostProcess": true,
-    "renameDialog": true
+    "renameDialog": false
   },
   "replay": {
     "showChat": true,
