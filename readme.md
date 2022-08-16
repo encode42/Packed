@@ -81,7 +81,7 @@ This modpack uses Sodium, Iris, etc.
 - [Effective](https://github.com/Ladysnake/Effective)
 
 **External Resources**  
-This pack provides [Complementary Shaders](https://www.complementary.dev/) and a pre-configured [VanillaTweaks](https://vanillatweaks.net/) resourcepack.
+This pack provides pre-configured [Complementary Shaders](https://www.complementary.dev/) and [VanillaTweaks](https://vanillatweaks.net/).
 
 Shader Packs:
 - [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
