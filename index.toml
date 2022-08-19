@@ -97,6 +97,10 @@ file = "config/libgui.json5"
 hash = "cc785a7edd8084d83f38ef3cb70e42e8c2bbd44af11ba5dded0d371cf35c9e69"
 
 [[files]]
+file = "config/lucium-hidden-debug-entries.txt"
+hash = "a957368a759dd6f7619a75499dd9c5d5f2028df15ee9d91e37e886401eb3ff45"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "e7106ac7c1d374cb9f71d4058fc35dd7b0cb7e335aaa293326c7ddf1702d60bd"
 
@@ -151,6 +155,10 @@ hash = "f4defa9ace973ad2f386b3dd2efa78cd17526531a2fda0b750c8feff11db1fd1"
 [[files]]
 file = "config/stendhal/stendhal.properties"
 hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
+
+[[files]]
+file = "config/vanity_splash_text/config.toml"
+hash = "ca874e19f126cfb32dfd123be4bba69d039f7b7be78a5187579dd8a5fb6d1297"
 
 [[files]]
 file = "config/waveycapes.json"
@@ -287,11 +295,6 @@ hash = "00032e9c1ab06a1846d26b683b2e5f279194d19d6516c9b77c13d5346305609f"
 metafile = true
 
 [[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "0e9e10bfa65e31e9fe0dfe9e4e4630bca31b12152e264c2d21461c3defaa9c66"
-metafile = true
-
-[[files]]
 file = "mods/clear-skies.pw.toml"
 hash = "4700c48ce4ddf2933e613a5871935da5a5d2d31f65fe4e81122b0441076494f1"
 metafile = true
@@ -323,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/cms.pw.toml"
-hash = "4ecc5379c6a14d757f59539f9ffab6ac260c8044ab56da0016ac7e6a89bfa632"
+hash = "ea06464a64659ea30a6c7ac0b63375551d5a97c1fe7388f8e3a33f9810749e04"
 metafile = true
 
 [[files]]
@@ -542,6 +545,11 @@ hash = "890ad2dfbc180b356f81beb6933ba2e798621af3fd142588ecb7ddab7be75562"
 metafile = true
 
 [[files]]
+file = "mods/lucium.pw.toml"
+hash = "ed916a6117f0780ca4da66be778205a731e80a913e3e5f1cceafd3ae57785c19"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "1288122aac2f181b4542e4de8c1d3462af6e28f4a5cbfde403aa670d606945b6"
 metafile = true
@@ -643,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0e63176e8c29d92d7b2c586108f9c8e8a3a938a1c95b6a7df9d1ada61db22746"
+hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
 metafile = true
 
 [[files]]
@@ -683,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6213f3c46f9544b1fd9b62af7a00ce3c7ee75d941ab127757cde2ddad2cc9ac9"
+hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
 
 [[files]]
@@ -693,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7ec17f6747f03455089858f0697662d5e6a6ebedf90b5f5abacd5406b3fde147"
+hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
 metafile = true
 
 [[files]]
@@ -724,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/ui-input-undo-fabric.pw.toml"
 hash = "c2dfd9d149372cc7738b98fbf5d91249e6b33a2389b8d8f15df5d0b0cca804f2"
+metafile = true
+
+[[files]]
+file = "mods/vanity-splash-text.pw.toml"
+hash = "0c38b50db49793af92ecbdf4fc25e9efc905ee18e67cf71c029978ad1ec0ff2b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Vanity Splash Text"
+filename = "vanity-splash-text-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/swRs9TIH/versions/1.0.0+1.19/vanity-splash-text-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "e189d8c87f3acb49ed576eddafa1eb726d95237b"
+
+[update]
+[update.modrinth]
+mod-id = "swRs9TIH"
+version = "zZjA2CBh"

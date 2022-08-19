@@ -1,0 +1,5 @@
+# default: false
+skip_seasonal_splash_text = true
+# default: java|minecraft|quilt_.*|quilted_fabric_.*|.*api.*
+ignore_modid_regex = "java|minecraft|quilt_.*|quilted_fabric_.*|.*api.*"
+
