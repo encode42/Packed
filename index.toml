@@ -158,7 +158,7 @@ hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
 
 [[files]]
 file = "config/vanity_splash_text/config.toml"
-hash = "ca874e19f126cfb32dfd123be4bba69d039f7b7be78a5187579dd8a5fb6d1297"
+hash = "8ef2c99c96cd0766c0d008871482cc61f59dbfc9f9f0ee30ba2dccafceb08f32"
 
 [[files]]
 file = "config/waveycapes.json"
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-lan.pw.toml"
-hash = "352c6335669b26ff5c1540b81ad126e7d71b48889c2ebde610ca08b96864b3dc"
+hash = "b93113fb155e104d87027be0036ebd2ea14ef5d647ba2a6e8b9184473d8029fb"
 metafile = true
 
 [[files]]
@@ -461,12 +461,12 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "61c33c94ba46664e40dabf1fa018697b1fe3c0789ece37c56a68fbd4f41562f1"
+hash = "339470b577ebc5892c5a578ab1ed1806d4d1e6bea23d34b8ab3860ab614c01fc"
 metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "7efc3fd028c5ccc248ce560c42b397bfd486d26d7854bea35b5e05cf6119b6fb"
+hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanity-splash-text.pw.toml"
-hash = "0c38b50db49793af92ecbdf4fc25e9efc905ee18e67cf71c029978ad1ec0ff2b"
+hash = "97b237efdd455619095586dddbf65aa84b964db7781a4f40798f6042b3ad17d5"
 metafile = true
 
 [[files]]
