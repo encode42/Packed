@@ -170,16 +170,6 @@ hash = "8fc3775800b4716d818394d2d8979154d94be4f2a52227538772a83a4b974bcd"
 metafile = true
 
 [[files]]
-file = "mods/advancedchatbox.pw.toml"
-hash = "42fa3ad05e710943c4fd6a7285f7f0c455acba48b0ca9f4b375290f3fc5592f9"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatcore.pw.toml"
-hash = "8cc649d654b48af6634ea730f4620add05c2d5e70abad596029e7b8e46641594"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a1dcc021f3acc64ccc8ccf4548629f041e1897b9407c41ac5b17511260bb7a62"
 metafile = true
@@ -431,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8adf1c37374d257533b16791096472760b7093846b996096f4bcba7b32b12d8d"
+hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
 
 [[files]]
@@ -461,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "339470b577ebc5892c5a578ab1ed1806d4d1e6bea23d34b8ab3860ab614c01fc"
+hash = "5f850670cb5306b75633e55fe9319c7a0448b9ef2b15449b7d1b7fd56ba7e775"
 metafile = true
 
 [[files]]
@@ -476,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "45d7f41230f18967037654811ccc5b90b9ee6414356df2d04ca410a16d5b1eb9"
+hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
 metafile = true
 
 [[files]]
@@ -631,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
-hash = "d7875921645398147d2c9e130943d90ec6a25b2b364fca62700b89e56448a577"
+hash = "9b4e286d95fa00d66b2abb8fdc83ce3207c52d2ede937e930cf028fc03686702"
 metafile = true
 
 [[files]]
@@ -666,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "51e481a8e84f9e8ebba0c0b2b4c006ded891606c3dd022848047381c52e0001e"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
@@ -701,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
+hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
 
 [[files]]
