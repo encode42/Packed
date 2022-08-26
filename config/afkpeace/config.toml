@@ -5,7 +5,7 @@
 	# default: false
 	reconnectEnabled = true
 	# default: false
-	damageLogoutEnabled = true
+	damageLogoutEnabled = false
 	# default: true
 	featuresEnabledIndicator = false
 

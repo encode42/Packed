@@ -1,0 +1,8 @@
+name = "ExtraSounds"
+filename = "extrasounds-2.3.1+1.19.2-1.19.1~akemi-git-7a58d66.jar"
+side = "both"
+
+[download]
+url = "https://developer.akemi.ai/Minecraft/extrasounds-2.3.1+1.19.2-1.19.1~akemi-git-7a58d66.jar"
+hash-format = "sha1"
+hash = "f681fd2afce1af3ea27fe56a8729b15cdbc0c57a"

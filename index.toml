@@ -10,11 +10,15 @@ hash = "6392ecb12540f633d357fcab4c952564599e01f1ac754834f7f02590940309d6"
 
 [[files]]
 file = "config/afkpeace/config.toml"
-hash = "0f11ce89a00e2e0a1a529af299695a3d4a0d051fa6ede5a7333e1c580d5d298f"
+hash = "d82994367ab91b5927e03d8b90f4efc5d9509d20c1bd3b03670539958355a7ab"
 
 [[files]]
 file = "config/authme.json5"
 hash = "11255e78e6713fdb1128d9199159b0de3cfb51dce86889a59ec23e0bc9362851"
+
+[[files]]
+file = "config/auto-crouch.json5"
+hash = "012da94923f0a444df197223b72db06f2390ca5c2a15905fdae33ff5a241a1ed"
 
 [[files]]
 file = "config/betterfpsdist.json"
@@ -75,6 +79,10 @@ hash = "b71e0073773f58bbc9e70164ebcb08badf241867a5264dd0ec0eefa365b99ff1"
 [[files]]
 file = "config/feytweaks.json"
 hash = "4bd62d27c2eab67ab6f5a455b0f62dfbfce0584d876c110da2aa13a71d269994"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "7c5dcf03152533cc8f0dbe69487189b79d568e2b39aa620fdfbc22a5173aa9c7"
 
 [[files]]
 file = "config/ibeeditor-common.json"
@@ -424,6 +432,11 @@ hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "24d8e5245eaf86df493b80ccf25767681e0c5ba768878be2c8d94ad6a03a047e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
@@ -456,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "cc64ea04c4658b95040ad4ecb45bb8aa9594ba1674ffc0bc5aaacdb4c96945b5"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "ce2b27de57c7ea0b68a0b88472285a2e82e8cf08c57c4c8c2a321579f90ca047"
 metafile = true
 
 [[files]]
@@ -755,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f22298872537f279a464e0c01c4f19d4b1753c16bee0b7ffdf303af8ed5ab52f"
+hash = "ecbf71e37df47bc28f254044abbcddc6f1166d5a1cd60f49ca38932e177e70bf"
 
 [[files]]
 file = "resourcepacks/Capitalisation-Fixes-v2.12-1.19.1.zip"

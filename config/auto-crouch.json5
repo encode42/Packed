@@ -1,0 +1,29 @@
+{
+	"mainConfig": {
+		"EnableGUIs": true,
+		"EnableTab": true,
+		"EnableChat": false
+	},
+	"screenConfig": {
+		"EnabledScreens": {
+			"net.minecraft.client.gui.screen.ingame.SmokerScreen": true,
+			"net.minecraft.class_496": true,
+			"net.minecraft.class_463": true,
+			"net.minecraft.class_465": true,
+			"net.minecraft.client.gui.screen.ingame.SmithingScreen": true,
+			"net.minecraft.class_3874": true,
+			"net.minecraft.class_489": true,
+			"net.minecraft.class_3873": true,
+			"net.minecraft.class_4895": true,
+			"net.minecraft.client.gui.screen.ingame.BlastFurnaceScreen": true,
+			"net.minecraft.client.gui.screen.ingame.MinecartCommandBlockScreen": true,
+			"net.minecraft.class_4894": true,
+			"net.minecraft.class_3871": true,
+			"net.minecraft.client.gui.screen.ingame.AbstractCommandBlockScreen": true,
+			"net.minecraft.client.gui.screen.ingame.AbstractFurnaceScreen": true,
+			"net.minecraft.client.gui.screen.ingame.ForgingScreen": true,
+			"net.minecraft.client.gui.screen.ingame.FurnaceScreen": true,
+			"net.minecraft.client.gui.screen.ingame.HandledScreen": true
+		}
+	}
+}
