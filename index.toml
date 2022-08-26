@@ -472,11 +472,6 @@ hash = "cc64ea04c4658b95040ad4ecb45bb8aa9594ba1674ffc0bc5aaacdb4c96945b5"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "ce2b27de57c7ea0b68a0b88472285a2e82e8cf08c57c4c8c2a321579f90ca047"
-metafile = true
-
-[[files]]
 file = "mods/fogbox.pw.toml"
 hash = "11c7f2a33fa991bebb3be2d722bdf022d78864b1cef357d03af730402f1ae393"
 metafile = true
@@ -773,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ecbf71e37df47bc28f254044abbcddc6f1166d5a1cd60f49ca38932e177e70bf"
+hash = "7988030b20ed8a19a154446229edf46268bafa32c5e512d1b6f959e81bb96844"
 
 [[files]]
 file = "resourcepacks/Capitalisation-Fixes-v2.12-1.19.1.zip"
@@ -788,8 +783,8 @@ file = "resourcepacks/EBE_v1.1_1.19.x.zip"
 hash = "b43476bf85693e1dc01f80af2fc8a9d11828aa86fb912e5dbe327fb240d3cbb8"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r724719.zip"
-hash = "bf0103f4d725ea3fe937f3b85ce6fdbb7388c41ccf0a435c99a890b4669465c8"
+file = "resourcepacks/VanillaTweaks_r733717.zip"
+hash = "412edabb8adc237682e76f052e1886b494b75ffb14a04f456d29d8b6b8ee496f"
 
 [[files]]
 file = "resourcepacks/all-the-fish.zip"
