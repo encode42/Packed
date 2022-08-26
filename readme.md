@@ -26,9 +26,8 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Dark mode
 - Vanilla-styled shaderpack options
 - Environmental particles
-- Improved weather in all biomes
-- Player capes and cosmetics
 - Armor bar reflects what's being worn
+- Camera movements are realistic
 
 **Auditory improvements**
 - Ambient biome sounds
@@ -40,7 +39,6 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Improved recipe book
 - Easier editing of NBT, command blocks, and books
 - Pick-block can copy more information
-- Chatbox spell-checking
 - General bug fixes
 
 **...and more!**
@@ -88,7 +86,11 @@ Shader Packs:
 - [Complementary Shaders Version 4](https://www.complementary.dev/shaders-v4/)
 
 Resource Packs:
-- [VanillaTweaks](https://vanillatweaks.net/)
 - [ALL THE FISH](https://modrinth.com/resourcepack/all-the-fish)
+- [Capitalisation Fixes](https://modrinth.com/resourcepack/capitalisation-fixes)
+- [Corrected Mob Heads](https://modrinth.com/resourcepack/corrected-mob-heads)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Overlay Textures](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1)
+- [VanillaTweaks](https://vanillatweaks.net/)
 
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!

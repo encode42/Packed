@@ -25,6 +25,10 @@ file = "config/brb.toml"
 hash = "cda78933889768f8b8aadbff4838a9e6490430afae9c7f9b8ac504d6d1a6f2b5"
 
 [[files]]
+file = "config/cameraoverhaul.json"
+hash = "fc0253b318d300e379667a074cfeacd60aeb62bce540f391ca79489e5b5edcf1"
+
+[[files]]
 file = "config/capes.json5"
 hash = "82f2a0388329a69f810445e49133a4237e4ea23de407aebe2d11a12c6cf74082"
 
@@ -142,7 +146,7 @@ hash = "a3950ba55fca335d4e7ed680adfe8938a73a6b9730e7f4a0f36b25c35f193419"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "c842dabe62dd3b4fc0dc4e5dc6f9d3a01f89520bd5c0ef44d257f2e9104a16b8"
+hash = "6fd2693f6dcb3953a508e94aa863486c1a1179187848459ce4a856c7785ca497"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -240,11 +244,6 @@ hash = "4bffe83e0d4e2cfb5cf5869ebea067c682491e14f0c56693c1adc2d4a2246568"
 metafile = true
 
 [[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "a2d1d4f4e73ceb5587dabd22269240305f5635bc773c018f3f7ee3acca7badf4"
-metafile = true
-
-[[files]]
 file = "mods/blanket.pw.toml"
 hash = "ad4adface5e9e24580fa832bdbd95e436300d12d16e6309508677903517b3ffc"
 metafile = true
@@ -265,6 +264,11 @@ hash = "7cd505e84be05b0cb14eca5c93049522a1711fd2d5ab95483bfee53c7207a52f"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "454131477dc48c24252731d4821abc813e697e4b6a9b4bc3c41af40947154fd1"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "d34f349d77f57ac0d6ae7c61424eff4380eed46b4d2e5177fa09b3071c250d9d"
 metafile = true
@@ -282,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/chime.pw.toml"
 hash = "00032e9c1ab06a1846d26b683b2e5f279194d19d6516c9b77c13d5346305609f"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
 
 [[files]]
@@ -325,6 +334,11 @@ hash = "ebf853b7e78c731db4c633e32963b9886088a62199c457687340cd73e73077c7"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+metafile = true
+
+[[files]]
 file = "mods/custom-lan.pw.toml"
 hash = "b93113fb155e104d87027be0036ebd2ea14ef5d647ba2a6e8b9184473d8029fb"
 metafile = true
@@ -341,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "8bf139edf67496c0a407b6e2631286b667f694720755e806d416e9e3e22c11c1"
+hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
 metafile = true
 
 [[files]]
@@ -411,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "571251a12f49f5542775ca3ced589e23ad622fc2b93ec3cecf1a7eb77f33eb2f"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -621,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
-hash = "9b4e286d95fa00d66b2abb8fdc83ce3207c52d2ede937e930cf028fc03686702"
+hash = "f5f52dc1a653e0d04d5bb19a5d1950621a44dc56cfd0b6b5fb937620efdda8c4"
 metafile = true
 
 [[files]]
@@ -741,11 +755,23 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c7b8ce899bb1c0057f873d42c4ca96f6013461d272ca4faf2dd1e0ffe1017565"
+hash = "93ddb9fcf68c146fea4c60acfec43ba247abfb9c2a5c19395a35f3008fc23469"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r284563.zip"
-hash = "eec221c6da88593512e4ada242c001f3bf991cba253fa804b888ac5005fe0093"
+file = "resourcepacks/Capitalisation-Fixes-v2.12-1.19.1.zip"
+hash = "d0b9b76cfcc892901c3cf9181bfc22ea76ae6d08cb7f6ee261c187983c4d3f88"
+
+[[files]]
+file = "resourcepacks/Corrected Mob Heads (1.19 - 1.19.2).zip"
+hash = "0e045e7392894e4b6ecb753de91c243e306dfe45d53b52b74a0f4f19842b4b78"
+
+[[files]]
+file = "resourcepacks/EBE_v1.1_1.19.x.zip"
+hash = "b43476bf85693e1dc01f80af2fc8a9d11828aa86fb912e5dbe327fb240d3cbb8"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r724719.zip"
+hash = "bf0103f4d725ea3fe937f3b85ce6fdbb7388c41ccf0a435c99a890b4669465c8"
 
 [[files]]
 file = "resourcepacks/all-the-fish.zip"
@@ -753,7 +779,11 @@ hash = "3f98b1443832aa1aa560560d04c5a2dc9f243af86de2e72c21b2e07cb1695a59"
 
 [[files]]
 file = "resourcepacks/credits.txt"
-hash = "7164149e61fee6832191c37d5fa4a3dab5d8f567fb1f6f11db5544271a5d8cce"
+hash = "ab4358f135ffc5b23791a31965e9a5ce2fdb66f8a77b22ce44f7e52ad5ce0564"
+
+[[files]]
+file = "resourcepacks/overlaytextures-1-19-full.zip"
+hash = "412bac851de2dc4d5010087b6d0298e3c61bf373e8c1d4648d1bbb6ae4f8720c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"

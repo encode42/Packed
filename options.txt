@@ -28,4 +28,4 @@ soundCategory_block:0.5
 soundCategory_neutral:0.33
 soundCategory_player:0.5
 soundCategory_ambient:0.4
-resourcePacks:["vanilla","charmonium/journeyman","lambdabettergrass/default","file/VanillaTweaks_r284563.zip","file/all-the-fish.zip","minecraft/supporteatinganimation"]
+resourcePacks:["vanilla","charmonium/journeyman","file/VanillaTweaks_r222174.zip","lambdabettergrass/default","illuminations/lowerres","minecraft/supporteatinganimation","file/all-the-fish.zip","continuity/default","continuity/glass_pane_culling_fix","file/overlaytextures-1-19-full.zip","file/EBE_v1.1_1.19.x.zip","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip"]
