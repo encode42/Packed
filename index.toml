@@ -26,7 +26,7 @@ hash = "cda78933889768f8b8aadbff4838a9e6490430afae9c7f9b8ac504d6d1a6f2b5"
 
 [[files]]
 file = "config/cameraoverhaul.json"
-hash = "fc0253b318d300e379667a074cfeacd60aeb62bce540f391ca79489e5b5edcf1"
+hash = "8df3014e901c59f9149efb7024b4118eab1e36bb42f4d16f6314f7508d43684e"
 
 [[files]]
 file = "config/capes.json5"
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "93ddb9fcf68c146fea4c60acfec43ba247abfb9c2a5c19395a35f3008fc23469"
+hash = "f22298872537f279a464e0c01c4f19d4b1753c16bee0b7ffdf303af8ed5ab52f"
 
 [[files]]
 file = "resourcepacks/Capitalisation-Fixes-v2.12-1.19.1.zip"
