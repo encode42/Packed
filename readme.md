@@ -16,30 +16,35 @@
 ### ⚙️ Features
 This modpack focuses on improving the client-side experience. All mods work independently of servers!
 
-**Performance improvements**
-- Utilizes the CaffeineMC suite of optimization mods
-- Utilizes Iris for fast shaders
-- Includes lesser-known performance tweaks
-- Game starts within seconds
-
 **Visual improvements**
 - Dark mode
 - Vanilla-styled shaderpack options
 - Environmental particles
 - Armor bar reflects what's being worn
 - Camera movements are realistic
+- Connected textures and natural texture overlays
+- ReplayMod and First-person Model for better cinematics
 
 **Auditory improvements**
 - Ambient biome sounds
-- Sounds when managing inventories
+- Reverb, muffling, and echos
+- Realistic player and entity footsteps
+- Sound effects when managing inventories
 - New sounds when interacting with the environment
-- Music persists when exiting worlds
+- Music persists while changing worlds
 
 **QOL improvements**
 - Improved recipe book
 - Easier editing of NBT, command blocks, and books
 - Pick-block can copy more information
+- Various improvements to lacking UI elements
+- Additional safety features
 - General bug fixes
+
+**Performance improvements**
+- Utilizes the CaffeineMC suite of optimization mods
+- Utilizes Iris for fast shaders
+- Includes safe and lesser-known performance tweaks
 
 **...and more!**
 
@@ -78,7 +83,9 @@ It includes a few mods that add resource pack features from OptiFine, such as Co
 <b>Is this modpack laggy?</b>
 </summary>
 
-It won't be as performant as other modpacks such as [Simply Optimized](https://modrinth.com/modpack/sop) or even [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), but that's due to the amount of visual and gameplay-enhancing mods in this pack. The aforementioned modpacks focus purely on squeezing as much performance out of Minecraft as possbile, while Packed aims to enhance the client's experience.
+Packed isn't laggy. *However*, it won't be as performant as other modpacks such as [Simply Optimized](https://modrinth.com/modpack/sop) or even [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized). This is due to the amount of visual, auditory, and gameplay-enhancing mods in this pack.
+
+The aforementioned modpacks focus purely on squeezing as much performance out of Minecraft as possible, while Packed aims to enhance the client's experience. If your computer struggles with this, give those modpacks a try!
 </details>
 
 ### ©️ Credits
