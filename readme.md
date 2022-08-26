@@ -68,9 +68,17 @@ This also strives to achieve consistency between every element of the game. Info
 <b>Does this work with OptiFine?</b>
 </summary>
 
-No. Nor is this compatible with OptiFine resource packs.
+No. Nor is this fully compatible with OptiFine resource packs. Packed modpack uses Sodium, Iris, etc.
 
-This modpack uses Sodium, Iris, etc.
+It includes a few mods that add resource pack features from OptiFine, such as Continuity, but Packed doesn't aim to be fully OptiFine-compatible.
+</details>
+
+<details>
+<summary>
+<b>Is this modpack laggy?</b>
+</summary>
+
+It won't be as performant as other modpacks such as [Simply Optimized](https://modrinth.com/modpack/sop) or even [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), but that's due to the amount of visual and gameplay-enhancing mods in this pack. The aforementioned modpacks focus purely on squeezing as much performance out of Minecraft as possbile, while Packed aims to enhance the client's experience.
 </details>
 
 ### ©️ Credits
