@@ -17,10 +17,6 @@ file = "config/auto-crouch.json5"
 hash = "012da94923f0a444df197223b72db06f2390ca5c2a15905fdae33ff5a241a1ed"
 
 [[files]]
-file = "config/betterfpsdist.json"
-hash = "3e3a1894308385a703a228988facbc2ecf77da903866b362f7b58f972635ad59"
-
-[[files]]
 file = "config/brb.toml"
 hash = "cda78933889768f8b8aadbff4838a9e6490430afae9c7f9b8ac504d6d1a6f2b5"
 
@@ -37,6 +33,10 @@ file = "config/clienttweaks.toml"
 hash = "c88f31ef1c21f716a462b44c87f87b543fb0c70c9f68e092e9799cfef1e4477b"
 
 [[files]]
+file = "config/draggable-resource-packs.json5"
+hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "8bd2b7dccb8d3520d3778025b32f9cf06a6af3c4ae98eee970be46bc6a463f5e"
 
@@ -50,11 +50,11 @@ hash = "d201483d8ae15f4c2add0c953145de4637377706c368ab95225a1fbdeaeb235d"
 
 [[files]]
 file = "config/fabrishot.properties"
-hash = "91b5069a05eef3497c7be69f969af1308d8da398d5268a4eca4b3c35d4eedf23"
+hash = "b59d328be01f267cdfabbf5adc41174c87723b0b13fd9ebd0f25bab002cb390b"
 
 [[files]]
 file = "config/fallingleaves.json"
-hash = "e5261c4bba43dce07c78c2ab3b2aafc52ffb0ff9963fec5939a3adec70b19f2c"
+hash = "934708c4763be42029ec51d979a95037e53719e6c6cd3e78ffc1e7be07772ad4"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -123,10 +123,6 @@ hash = "6fd2693f6dcb3953a508e94aa863486c1a1179187848459ce4a856c7785ca497"
 [[files]]
 file = "config/sodium-options.json"
 hash = "053c71867f5899ce9747479d47b7463db96c16fa29ed60784351012ed65937f2"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "f4defa9ace973ad2f386b3dd2efa78cd17526531a2fda0b750c8feff11db1fd1"
 
 [[files]]
 file = "config/stendhal/stendhal.properties"
@@ -652,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a8b16c97233d59b0c4623bf2e6f1ff4a1c370a0a19ba11b5c95340f6928e485e"
+hash = "45a2f84a7b75a6555b7e04c54777e2158e1348b85bac91f46a63e27bcd489e73"
 
 [[files]]
 file = "resourcepacks/Capitalisation-Fixes-v2.12-1.19.1.zip"
@@ -667,8 +663,8 @@ file = "resourcepacks/EBE_v1.1_1.19.x.zip"
 hash = "b43476bf85693e1dc01f80af2fc8a9d11828aa86fb912e5dbe327fb240d3cbb8"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r733717.zip"
-hash = "412edabb8adc237682e76f052e1886b494b75ffb14a04f456d29d8b6b8ee496f"
+file = "resourcepacks/VanillaTweaks_r125380.zip"
+hash = "85304c410a589c568de28023c351e717377aed4824699109c0509d8d1e1763f9"
 
 [[files]]
 file = "resourcepacks/credits.txt"
@@ -676,7 +672,7 @@ hash = "f2fe9ceacfdc93bd4c12c8863a8f96055651d413cf82e7e2af02209764fb3001"
 
 [[files]]
 file = "resourcepacks/overlaytextures-1-19-full.zip"
-hash = "412bac851de2dc4d5010087b6d0298e3c61bf373e8c1d4648d1bbb6ae4f8720c"
+hash = "a43071cbe8b3640579aaf75b3ab352743319371054245ea5c0d905bb49c69c7c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"
