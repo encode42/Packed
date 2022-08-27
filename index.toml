@@ -306,11 +306,6 @@ hash = "667ec8faf28150179cf141333a99ff91bbf2031560048ec0d8ebbed8f4993ca3"
 metafile = true
 
 [[files]]
-file = "mods/dimthread.pw.toml"
-hash = "37c821a968a27be827c1bcd5fbf78718bc541a51e7c501bd8989af6202ca7b0f"
-metafile = true
-
-[[files]]
 file = "mods/disablemessagedeletion.pw.toml"
 hash = "1952937ce54b7d72d9d2783f8b2b3b14cbcd2094709ec67c42b886e9f7ae9953"
 metafile = true
