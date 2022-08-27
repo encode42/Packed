@@ -1,13 +1,15 @@
 {
   "invisibleShield": false,
   "invisibleTotem": false,
-  "betterHorseHUD": true,
+  "betterHorseHUD": false,
   "fullBright": false,
   "hideTutorialToasts": true,
   "hideAdvancementToasts": false,
   "hideRecipeUnlockToasts": true,
-  "deathCordsClipBoardButton": false,
+  "deathCordsClipBoardButton": true,
+  "sendDeathCords": false,
   "disablePortalGUIClosing": true,
-  "doNotPlantEdiblesIfHungry": false,
+  "doNotPlantEdiblesIfHungry": true,
+  "noDoubleSlabPlacement": false,
   "skipResourcePackDownload": false
 }

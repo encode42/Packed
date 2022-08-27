@@ -1,5 +1,5 @@
 version:3120
-quilt_available_resource_packs:["file/all-the-fish.zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip","charmonium/journeyman","continuity/default","continuity/glass_pane_culling_fix","file/Corrected Mob Heads (1.19 - 1.19.2).zip","vanilla","file/EBE_v1.1_1.19.x.zip","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","minecraft/supporteatinganimation","file/overlaytextures-1-19-full.zip","programer_art","axolotlbuckets/axolotl-buckets-small","file/VanillaTweaks_r724719.zip"]
+quilt_available_resource_packs:["file/Capitalisation-Fixes-v2.12-1.19.1.zip","charmonium/journeyman","continuity/default","continuity/glass_pane_culling_fix","file/Corrected Mob Heads (1.19 - 1.19.2).zip","vanilla","file/EBE_v1.1_1.19.x.zip","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","minecraft/supporteatinganimation","file/overlaytextures-1-19-full.zip","programer_art","axolotlbuckets/axolotl-buckets-small","file/VanillaTweaks_r724719.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -38,8 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","charmonium/journeyman","file/VanillaTweaks_r733717.zip","continuity/default","continuity/glass_pane_culling_fix","file/overlaytextures-1-19-full.zip","lambdabettergrass/default","file/EBE_v1.1_1.19.x.zip","file/all-the-fish.zip","illuminations/lowerres","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip","minecraft/supporteatinganimation"]
-incompatibleResourcePacks:["file/all-the-fish.zip"]
+resourcePacks:["vanilla","charmonium/journeyman","file/VanillaTweaks_r733717.zip","continuity/default","continuity/glass_pane_culling_fix","file/overlaytextures-1-19-full.zip","lambdabettergrass/default","file/EBE_v1.1_1.19.x.zip","illuminations/lowerres","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip","minecraft/supporteatinganimation"]
 lastServer:
 lang:en_us
 soundDevice:""

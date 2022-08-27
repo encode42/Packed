@@ -21,13 +21,10 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Vanilla-styled shaderpack options
 - Environmental particles
 - Armor bar reflects what's being worn
-- Camera movements are realistic
 - Connected textures and natural texture overlays
-- ReplayMod and First-person Model for better cinematics
 
 **Auditory improvements**
 - Ambient biome sounds
-- Reverb, muffling, and echos
 - Realistic player and entity footsteps
 - Sound effects when managing inventories
 - New sounds when interacting with the environment
@@ -98,10 +95,8 @@ This pack provides pre-configured [Complementary Shaders](https://www.complement
 
 Shader Packs:
 - [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
-- [Complementary Shaders Version 4](https://www.complementary.dev/shaders-v4/)
 
 Resource Packs:
-- [ALL THE FISH](https://modrinth.com/resourcepack/all-the-fish)
 - [Capitalisation Fixes](https://modrinth.com/resourcepack/capitalisation-fixes)
 - [Corrected Mob Heads](https://modrinth.com/resourcepack/corrected-mob-heads)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
