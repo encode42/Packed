@@ -25,10 +25,6 @@ file = "config/brb.toml"
 hash = "cda78933889768f8b8aadbff4838a9e6490430afae9c7f9b8ac504d6d1a6f2b5"
 
 [[files]]
-file = "config/cameraoverhaul.json"
-hash = "8df3014e901c59f9149efb7024b4118eab1e36bb42f4d16f6314f7508d43684e"
-
-[[files]]
 file = "config/capes.json5"
 hash = "82f2a0388329a69f810445e49133a4237e4ea23de407aebe2d11a12c6cf74082"
 
@@ -602,11 +598,6 @@ metafile = true
 [[files]]
 file = "mods/rbip.pw.toml"
 hash = "fbd9515196c92d6762a0a0faa8a439ff6f1f84a9f97db421b32168af2e5240d9"
-metafile = true
-
-[[files]]
-file = "mods/recipe-cache.pw.toml"
-hash = "9a3ae5c72bc925fb64391a62bef32f2d585d40a52481dfa132e838e0cffadcd2"
 metafile = true
 
 [[files]]
