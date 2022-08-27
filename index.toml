@@ -186,11 +186,6 @@ hash = "2f04cc665bdae0229602ef22b7c031bd523a7276b7305df1f933123194618ea3"
 metafile = true
 
 [[files]]
-file = "mods/beer.pw.toml"
-hash = "dad4119b843074e937cff7ed21c0c91f122b8d82033f64cc9358fea610404c25"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "113e971e1a3d588d43beedef5702d8dd40abf150d99b6d0d82f39c2bc381335d"
 metafile = true
@@ -238,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "6b262ef4a5b0ebeb3f4bc40122511f26b912d869ab41d578510982842f140590"
-metafile = true
-
-[[files]]
-file = "mods/chime.pw.toml"
-hash = "00032e9c1ab06a1846d26b683b2e5f279194d19d6516c9b77c13d5346305609f"
 metafile = true
 
 [[files]]
@@ -511,11 +501,6 @@ hash = "923cb27d53a1f468994c711d221b1a409f9595b8ebb53874f57b068993238974"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "c564c408fa886b0eb077f4a0e9e326339da02dafbb1f3127e82613787af83bae"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c9d9167880bfc8aaf35baa869a5272ef3f99bb165915da5f1ac30b0426bec3d2"
 metafile = true
@@ -533,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/multiple-server-lists.pw.toml"
 hash = "109d1ecdae71fea26ef80d6a10ffe8a2d179e952d35b3e21e82f0e7bc6cb5bba"
-metafile = true
-
-[[files]]
-file = "mods/naiy.pw.toml"
-hash = "cd77e4063e8ee3af914c005cc5707e3af506a246bde7a5838592bf56e0eeac07"
 metafile = true
 
 [[files]]

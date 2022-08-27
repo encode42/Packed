@@ -1,13 +1,15 @@
 {
   "version": 1,
   "displayDebugData": false,
+  "enabled": true,
   "leafSize": 4,
   "leafLifespan": 149,
-  "leafSpawnRate": 6,
+  "leafSpawnRate": 8,
   "coniferLeafSpawnRate": 1,
   "dropFromPlayerPlacedBlocks": false,
+  "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 3,
-  "windEnabled": true,
+  "windEnabled": false,
   "windlessDimensions": [
     "minecraft:the_end",
     "minecraft:the_nether"

@@ -48,9 +48,6 @@ This modpack focuses on improving the client-side experience. All mods work inde
 I did not make any of the projects that make this modpack possible.  
 Make sure to give some love to the authors of the projects listed in [/mods](/mods), [/resourcepacks](/resourcepacks), and [/shaderpacks](/shaderpacks)!
 
-Unfortunately, some mods I wanted to include do not permit re-distribution.
-- [Better Fps - Render Distance](https://github.com/someaddons/betterfpsdistances)
-
 ### ❔ FAQ
 <details>
 <summary>

@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","charmonium/journeyman","file/VanillaTweaks_r733717.zip","continuity/default","continuity/glass_pane_culling_fix","file/overlaytextures-1-19-full.zip","lambdabettergrass/default","file/EBE_v1.1_1.19.x.zip","illuminations/lowerres","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip","minecraft/supporteatinganimation"]
+resourcePacks:["vanilla","charmonium/journeyman","file/VanillaTweaks_r125380.zip","continuity/default","continuity/glass_pane_culling_fix","file/overlaytextures-1-19-full.zip","lambdabettergrass/default","file/EBE_v1.1_1.19.x.zip","illuminations/lowerres","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.12-1.19.1.zip","minecraft/supporteatinganimation"]
 lastServer:
 lang:en_us
 soundDevice:""
