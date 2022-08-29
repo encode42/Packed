@@ -1,8 +1,14 @@
 name = "ExtraSounds"
-filename = "extrasounds-2.3.1+1.19.2-1.19.1~akemi-git-7a58d66.jar"
-side = "both"
+filename = "extrasounds-2.3.1+1.19.2-1.19.1.jar"
+side = "client"
 
 [download]
-url = "https://developer.akemi.ai/Minecraft/extrasounds-2.3.1+1.19.2-1.19.1~akemi-git-7a58d66.jar"
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/yV1SwVzK/extrasounds-2.3.1%2B1.19.2-1.19.1.jar"
 hash-format = "sha1"
-hash = "f681fd2afce1af3ea27fe56a8729b15cdbc0c57a"
+hash = "c43ac9ffe58cbf59b90eeb4be1a6aad40ebbfbfd"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "yV1SwVzK"

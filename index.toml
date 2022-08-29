@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "24d8e5245eaf86df493b80ccf25767681e0c5ba768878be2c8d94ad6a03a047e"
+hash = "309925d2555ac35fb561fc190aba1e2c1d37590e39371da7a47d718b4ac37124"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "6132e93aaf43ceb9052ec20fb0b67f656a3b1af3ce90cd6ae517f3ee8088136b"
+hash = "a5f9799104952ac1e34050e5bc7107f6cccdbcc9ee0cc1909e2391ab7c8fd515"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+hash = "2a41a8c8a405c67870b77dd17bf3242362c40a5ad6dc6f94071c0bb1dbe7cad2"
 metafile = true
 
 [[files]]
@@ -593,12 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
+hash = "4926661a7b58020935022c9a84c5263293611d7f8c7ba82b1c261cef89794775"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
+hash = "cba51ca98a478b7a72bfdc9fc528aefcc13f28c609da2454311cc167013aae26"
 metafile = true
 
 [[files]]
