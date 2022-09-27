@@ -1,0 +1,18 @@
+{
+  "general": {
+    "stored_lines": 1000,
+    "only_manual_clear": true,
+    "saved_lines": 0,
+    "reload_lines": 0,
+    "clean_save": false,
+    "scroll_time": 200,
+    "scroll_type": "quart",
+    "scroll_multiplier": 5.0
+  },
+  "hotkeys": {
+    "openSettings": {
+      "keys": "U"
+    }
+  },
+  "config_version": 1
+}

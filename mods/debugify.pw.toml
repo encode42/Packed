@@ -1,13 +1,13 @@
 name = "Debugify"
-filename = "Debugify-2.5.0.jar"
+filename = "Debugify-2.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/KB2xqwsT/Debugify-2.5.0.jar"
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/pYAlD9TK/Debugify-2.7.1.jar"
 hash-format = "sha1"
-hash = "69e036e30daab4beae265f099d33c620dcef7008"
+hash = "24f4ab766406d0d47faa5e860ee9cd47759b6e70"
 
 [update]
 [update.modrinth]
 mod-id = "QwxR6Gcd"
-version = "KB2xqwsT"
+version = "pYAlD9TK"

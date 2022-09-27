@@ -1,0 +1,14 @@
+name = "ALL THE FISH"
+filename = "all-the-fish.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wWFu6bhI/versions/1/all-the-fish.zip"
+hash-format = "sha1"
+hash = "92223866de5ade5642757191d6b41d9103418fa7"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "wWFu6bhI"
+version = "KqUnTXzF"

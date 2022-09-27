@@ -1,14 +1,13 @@
 name = "Clear Skies"
-filename = "clear-skies-fabric-mc119-2.0.94.jar"
+filename = "clear-skies-fabric-mc119-2.0.95.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xNK6XfRv/versions/fabric-mc119-2.0.94/clear-skies-fabric-mc119-2.0.94.jar"
+url = "https://cdn.modrinth.com/data/xNK6XfRv/versions/rRNj4MRj/clear-skies-fabric-mc119-2.0.95.jar"
 hash-format = "sha1"
-hash = "885f76c266e03f297540e9c589d4d9f3928db8a9"
-mode = ""
+hash = "642bb6d53af2f7b42bfd333730d5c1111ccd8059"
 
 [update]
 [update.modrinth]
 mod-id = "xNK6XfRv"
-version = "deZEPSpt"
+version = "rRNj4MRj"

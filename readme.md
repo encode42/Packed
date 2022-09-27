@@ -21,7 +21,6 @@ This modpack focuses on improving the client-side experience. All mods work inde
 - Vanilla-styled shaderpack options
 - Environmental particles
 - Armor bar reflects what's being worn
-- Connected textures and natural texture overlays
 
 **Auditory improvements**
 - Ambient biome sounds
@@ -33,7 +32,6 @@ This modpack focuses on improving the client-side experience. All mods work inde
 **QOL improvements**
 - Improved recipe book
 - Easier editing of NBT, command blocks, and books
-- Pick-block can copy more information
 - Various improvements to lacking UI elements
 - Additional safety features
 - General bug fixes
@@ -88,16 +86,14 @@ The aforementioned modpacks focus purely on squeezing as much performance out of
 - [Effective](https://github.com/Ladysnake/Effective)
 
 **External Resources**  
-This pack provides pre-configured [Complementary Shaders](https://www.complementary.dev/) and [VanillaTweaks](https://vanillatweaks.net/).
+This pack uses a few resources located outside of Modrinth's ecosystem.
 
 Shader Packs:
 - [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
+  - Pre-configured to be vanilla-styled.
 
 Resource Packs:
-- [Capitalisation Fixes](https://modrinth.com/resourcepack/capitalisation-fixes)
-- [Corrected Mob Heads](https://modrinth.com/resourcepack/corrected-mob-heads)
-- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-- [Overlay Textures](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1)
 - [VanillaTweaks](https://vanillatweaks.net/)
+  - Pre-configured with general tweaks.
 
 The authors of these projects are not responsible if you encounter issues with them while using this modpack!

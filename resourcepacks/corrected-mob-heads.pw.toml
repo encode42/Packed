@@ -1,0 +1,14 @@
+name = "Corrected Mob Heads"
+filename = "Corrected Mob Heads (1.19 - 1.19.2).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjSPiUds/versions/9gdTGP0O/Corrected%20Mob%20Heads%20%281.19%20-%201.19.2%29.zip"
+hash-format = "sha1"
+hash = "a53f3dfc6ca2823240ce23729c2cbc9420dec160"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "HjSPiUds"
+version = "9gdTGP0O"
