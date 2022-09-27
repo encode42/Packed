@@ -289,8 +289,13 @@ hash = "f2d6d0bf07893bd248bce474400e63f83d0a6c151733bf1fdb59fe8f003c25da"
 metafile = true
 
 [[files]]
+file = "mods/chime.pw.toml"
+hash = "b7d3a725335a2f98bfe00ddbdd27bdc90633e000108451939ae98b3da26f7a99"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "d5d0ed6ad45019d7a654c843f89c858664fb2468ac005b9e123c4aabd7ff1105"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "45a2f84a7b75a6555b7e04c54777e2158e1348b85bac91f46a63e27bcd489e73"
+hash = "16fc5f5204cf3ee80f1709d90d5040bea8c3815a3b3b7c0df710b77486671d51"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r618746.zip"
@@ -739,6 +744,11 @@ hash = "e5c375105417e381a7978b2c90587047a6379cc8c4049981ed1e77392e195eb8"
 [[files]]
 file = "resourcepacks/all-the-fish.pw.toml"
 hash = "789e3d613cdcac6eaafbc0690a69acca8a513b9904ef5abe318e6e7513d257fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/axolotl-bucket-variants.pw.toml"
+hash = "3053203a6c17d9d2013644dad7d3657a5e26e23d67373d5c29c4f7045f7f88fc"
 metafile = true
 
 [[files]]
