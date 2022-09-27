@@ -1,7 +1,7 @@
 [Modrinth]: https://modrinth.com/modpack/packed
-[Modrinth Downloads Badge]: https://img.shields.io/modrinth/dt/packed?label=Downloads&style=flat-square
+[Modrinth Downloads Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/available/modrinth_vector.svg
 [Support]: https://encode42.dev/support
-[Support Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square
+[Support Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/social/discord-singular_vector.svg
 
 <img src=".github/assets/badge-lq.png" align="left" id="header">
 <div align="right">
@@ -9,8 +9,7 @@
 # Packed
 ### Various visual, auditory, and improvement mods packed into the client.
 
-[![Modrinth Downloads Badge]][Modrinth]  
-[![Support Badge]][Support]
+[![Modrinth Downloads Badge]][Modrinth] [![Support Badge]][Support]
 </div>
 
 ### ⚙️ Features
@@ -81,13 +80,13 @@ The aforementioned modpacks focus purely on squeezing as much performance out of
 </details>
 
 ### ©️ Credits
-**External Mods**  
+This pack uses a few resources located outside of Modrinth's ecosystem. As such, they are credited here.
+
+**Mods**  
 - [Illuminations](https://github.com/ladysnake/illuminations)
 - [Effective](https://github.com/Ladysnake/Effective)
 
-**External Resources**  
-This pack uses a few resources located outside of Modrinth's ecosystem.
-
+**Resource Packs**  
 Shader Packs:
 - [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
   - Pre-configured to be vanilla-styled.
