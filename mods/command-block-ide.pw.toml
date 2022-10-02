@@ -1,13 +1,13 @@
 name = "Command Block IDE"
-filename = "command-block-ide-0.3.2.jar"
+filename = "command-block-ide-0.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IDOSfa6c/versions/0.3.2/command-block-ide-0.3.2.jar"
+url = "https://cdn.modrinth.com/data/IDOSfa6c/versions/m0IExJdl/command-block-ide-0.3.3.jar"
 hash-format = "sha1"
-hash = "c2827e083fbf8c5eaf0f50fe6ac11527a57c65ac"
+hash = "e899e15b4f0e9c1edab36dc4339be87ff128e0d8"
 
 [update]
 [update.modrinth]
 mod-id = "IDOSfa6c"
-version = "wWTSaknN"
+version = "m0IExJdl"

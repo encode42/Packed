@@ -82,7 +82,7 @@ hash = "d201483d8ae15f4c2add0c953145de4637377706c368ab95225a1fbdeaeb235d"
 
 [[files]]
 file = "config/exordium.json"
-hash = "a8ba765c4129056bb3e9e05d283f93500c0cc4991b2c0972ccd6551bd947a8a0"
+hash = "060edb269833df63be911b24f3375eeddfa4f1fffacc476c7ee97995ecc8d1ac"
 
 [[files]]
 file = "config/fabrishot.properties"
@@ -209,6 +209,11 @@ hash = "d0f01ef27819f59c0a876173d68dcaacd45103ab592460efed3202d42338ead6"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "ec1d287ec91a656ee343243decbc4f418a8bdb09c4f09d483cd459402ec390ed"
+metafile = true
+
+[[files]]
 file = "mods/auditory.pw.toml"
 hash = "f02c51d565b46e522a47ce9f5f84d6075f9bde19631aa297f0df82f8ab6908ad"
 metafile = true
@@ -226,11 +231,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "2f04cc665bdae0229602ef22b7c031bd523a7276b7305df1f933123194618ea3"
-metafile = true
-
-[[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "e143f0581d9a5079eef15faa984c73f8b242d7a54c0472b1ed461789eb91241b"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-block-ide.pw.toml"
-hash = "ebf853b7e78c731db4c633e32963b9886088a62199c457687340cd73e73077c7"
+hash = "23c171d5b75def7e4ef4e7e2bcfe0dd7af92e81f3f5e3b77b88cfc3deaf93611"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
+hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "ca278ae4aeb7284abdca5d64a0cd2520528f47d11ef4e4e1766267771b169084"
+hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
 metafile = true
 
 [[files]]
@@ -464,6 +464,11 @@ hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
 metafile = true
 
 [[files]]
+file = "mods/fzmm.pw.toml"
+hash = "3d7820c82471bfb9de4a2fdfd6400015d28e3ed8f20c06a5aae746cff693e6f9"
+metafile = true
+
+[[files]]
 file = "mods/gammaboost.pw.toml"
 hash = "43ce5be2acb91b203d05bc2e42663756f5a3555e3f766a6acc5deea75f84ae49"
 metafile = true
@@ -471,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/graphutil.pw.toml"
 hash = "5fd9edc4c52855e511429009b72ffc1089c214cad3e7e80e7837ca7f78fd0855"
+metafile = true
+
+[[files]]
+file = "mods/harvest.pw.toml"
+hash = "848d8a6287cd149440e117201d3a11057e573172ed2ae5013a36edb609fd8aac"
 metafile = true
 
 [[files]]
@@ -494,6 +504,11 @@ hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b6c6a35ce75dccb711f68d382f29a4adc8e8e2b7f8f46529210382f17afa41b9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a5f9799104952ac1e34050e5bc7107f6cccdbcc9ee0cc1909e2391ab7c8fd515"
 metafile = true
@@ -505,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactic.pw.toml"
-hash = "ccc851752d034e64dccbc9eb4cad280858556b92a6cfc0adbd1e3164c8b7982a"
+hash = "d4f85fc72da9cf35b73a202df5b2ac94fa6649bff03081111abfa3080e315969"
 metafile = true
 
 [[files]]
@@ -644,8 +659,23 @@ hash = "f5ae53e7bd97f4fbb68534cd701c9f94e252dd70fcc2f961a77efcaa18a338cc"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8666d55d8caa363d84ea6e54e23ecedabcebd0ab5f07b132e36d0bd071482fd3"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "09c65e66d8a5168476896c7ab94c680981da3ca69e9f6af34a251a672e87953d"
+metafile = true
+
+[[files]]
+file = "mods/rainbow-shenanigans.pw.toml"
+hash = "67ee856a1e900179737414737a040c8707805ca438436e8aaf13b5214189a0e3"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "542bf6c74413c1d5df99ee5d65ca9d155337f19576d60b83ed3b70d11b6edc49"
 metafile = true
 
 [[files]]
@@ -670,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "558775e0f9c24c2a91fad0ac95088b6038a4a8bc5f3460e13b22c3a887ff7510"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "FZMM"
+filename = "FZMM-Mod-0.1.0-BETA-2+mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/REabq1FB/FZMM-Mod-0.1.0-BETA-2%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "aadc89d815d3dee4bc981f9fc2edcdf86f7e65e3"
+
+[update]
+[update.modrinth]
+mod-id = "tAvlhiZW"
+version = "REabq1FB"

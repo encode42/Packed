@@ -1,14 +1,13 @@
 name = "FastAnim"
-filename = "lunade-fastanim-1.5.3.jar"
+filename = "lunade-fastanim-1.5.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yHf7SALy/versions/1.5.3/lunade-fastanim-1.5.3.jar"
+url = "https://cdn.modrinth.com/data/yHf7SALy/versions/dXcNDUia/lunade-fastanim-1.5.6.jar"
 hash-format = "sha1"
-hash = "1fca8aa1615967a7525eb99a1ce57b064035b6da"
-mode = ""
+hash = "d591baf894b19b7bd4645fd553240e3547aebb63"
 
 [update]
 [update.modrinth]
 mod-id = "yHf7SALy"
-version = "lrnG23SV"
+version = "dXcNDUia"

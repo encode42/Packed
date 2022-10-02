@@ -1,0 +1,13 @@
+name = "Harvest"
+filename = "harvest-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DgT4iww/versions/C5apGQlr/harvest-1.4.0.jar"
+hash-format = "sha1"
+hash = "3888cd7ca5ea1bf74325857562a5219a87019bc3"
+
+[update]
+[update.modrinth]
+mod-id = "1DgT4iww"
+version = "C5apGQlr"
