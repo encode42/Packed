@@ -1,13 +1,13 @@
 name = "Illuminations 🔥"
-filename = "illuminations-1.10.8.jar"
+filename = "illuminations-1.10.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "649b2d5735590d32bbac68166f2a87bec7342c59"
+hash = "4ecfafa666b05cdc923bbdc3ccd46db4c48fe15a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3846131
+file-id = 4046680
 project-id = 292908

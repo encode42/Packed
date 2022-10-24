@@ -1,14 +1,13 @@
 name = "IBE Editor"
-filename = "IBEEditor-1.19-2.1.2-fabric.jar"
+filename = "IBEEditor-1.19.2-2.2.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E9sX1ncV/versions/2.1.2+1.19-fabric/IBEEditor-1.19-2.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/E9sX1ncV/versions/jQ4wI8T9/IBEEditor-1.19.2-2.2.0-fabric.jar"
 hash-format = "sha1"
-hash = "6303ed89bb71bd787f63894691f2618f561bcdc7"
-mode = ""
+hash = "c74b7cc5fca3d83e64c4d2a947e5b9c4d1863618"
 
 [update]
 [update.modrinth]
 mod-id = "E9sX1ncV"
-version = "q4KoD26G"
+version = "jQ4wI8T9"
