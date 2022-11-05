@@ -1,24 +1,39 @@
-[Packed Icon]: .github/asset/blue/Packed LQ.png
-[Packed Modrinth]: https://modrinth.com/modpack/packed
-[Packed Red Icon]: .github/asset/red/Packed Red LQ.png
-[Packed Red Modrinth]: https://modrinth.com/modpack/packed-red
-[Packed Yellow Icon]: .github/asset/yellow/Packed Yellow LQ.png
-[Packed Yellow Modrinth]: https://modrinth.com/modpack/packed-yellow
-
-[Modrinth Downloads Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/available/modrinth_vector.svg
+[Support]: https://encode42.dev/support
+[Support Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/social/discord-singular_vector.svg
 
 # Packed Monorepo
-### Provides a home for Packed, Packed Red, and Packed Yellow!
+### Provides a home for the Packed, Packed Red, and Packed Yellow modpacks!
 
-| [![Packed Icon]][Packed Modrinth] | 
-| :-------------------------------: |
-| Packed                            |
+[![Support Badge]][Support]
 
-| [![Packed Red Icon]][Packed Red Modrinth] | 
-| :---------------------------------------: |
-| Packed Red                                |
+### ⚙️ Modpacks
 
-| [![Packed Yellow Icon]][Packed Yellow Modrinth] | 
-| :---------------------------------------------: |
-| Packed Yellow                                   |
-
+<table>
+  <tr>
+    <td>
+      <img src=".github/asset/blue/Packed.png" />
+    </td>
+    <td>
+      <h1><a href="/blue">Packed</a></h1>
+      <h3>Vanilla-styled visual, auditory, and gameplay improvements packed into the client.</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src=".github/asset/red/Packed Red.png" />
+    </td>
+    <td>
+      <h1><a href="/red">Packed Red</a></h1>
+      <h3>Vanilla-styled content creation and environmental immersion packed into the client.</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src=".github/asset/yellow/Packed Yellow.png" />
+    </td>
+    <td>
+      <h1><a href="/yellow">Packed Yellow</a></h1>
+      <h3>Vanilla-styled performance improvements packed into the client.</h3>
+    </td>
+  </tr>
+</table>
