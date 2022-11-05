@@ -7,11 +7,11 @@
 <div align="right">
 
 # Packed Yellow
-### Vanilla-styled performance improvements packed into the client.
+### Vanilla-styled performance improvements packed into the client or server.
 
 [![Modrinth Downloads Badge]][Modrinth] [![Support Badge]][Support]
 </div>
 
 ### ⚙️ Features
-This modpack focuses on improving the client-side performance, while maintaining a vanilla feel. All mods within this modpack work independently of servers and clients!
+This modpack focuses on improving the client-side performance, while maintaining a vanilla feel. All mods within this modpack work independently of servers or clients!
 
