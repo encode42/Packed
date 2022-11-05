@@ -1,0 +1,6 @@
+{
+    "name": "Packed Red",
+    "description": "Vanilla-styled content creation and environmental immersion packed into the client.",
+    "extends": "../blue"
+}
+

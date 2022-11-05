@@ -1,6 +1,6 @@
 # Include resourcepacks and shaderpacks
-!/resourcepacks/*.zip
-!/shaderpacks/*.zip
+!/**/resourcepacks/*.zip
+!/**/shaderpacks/*.zip
 
 # Build files
-/Packed-*.mrpack
+/**/Packed-*.mrpack

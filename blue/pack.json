@@ -1,0 +1,6 @@
+{
+    "name": "Packed",
+    "description": "Vanilla-styled visual, auditory, and gameplay improvements packed into the client.",
+    "extends": "../yellow"
+}
+

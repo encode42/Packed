@@ -1,0 +1,8 @@
+{
+    "author": "Encode42",
+    "versions": {
+        "pack": "6.0.0",
+        "minecraft": "1.19.2",
+        "quilt": "0.17.6"
+    }
+}

@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/misc.xml"
-hash = "11554c84d7062fc69b184babbe3986f233d82e8a2b6fccc696e4d646ff10338e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "4b55020427aa7a0fd29e585fe188d7d991c1c416fae68b72f37190aeb4ced7bf"
-
-[[files]]
 file = "config/advancedchat/advancedchatbox.json"
 hash = "e64f26002f8c47a012f487a023eced6ee71c7f72b7bdd7dc488632083ca14404"
 
