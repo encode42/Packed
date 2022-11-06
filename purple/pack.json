@@ -1,0 +1,6 @@
+{
+    "name": "Packed Purple",
+    "description": "Vanilla-styled quality-of-life improvements regarding building packed into the client.",
+    "extends": "../blue"
+}
+

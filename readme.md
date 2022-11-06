@@ -20,6 +20,15 @@
   </tr>
   <tr>
     <td>
+      <img src=".github/asset/purple/Packed Purple.png" />
+    </td>
+    <td>
+      <h1><a href="/purple">Packed Purple</a></h1>
+      <h3>Vanilla-styled quality-of-life improvements regarding building packed into the client.</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src=".github/asset/red/Packed Red.png" />
     </td>
     <td>
