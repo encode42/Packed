@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/auditory.pw.toml"
-hash = "f02c51d565b46e522a47ce9f5f84d6075f9bde19631aa297f0df82f8ab6908ad"
+hash = "d105855c2502ecd120ba6ea575378af53dbd4bbac4dcb6d3d8324a07e949be7f"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "c6d9f6b16a1d457f14d3590cefed54b376328f3bddefc66e9e3e787c50efdbbd"
+hash = "fd06ca25cd900e63aeb0209bfae770d0ad0415b2f459f7b112369fbe70320265"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
+hash = "7fcaf2e8fd00878a07271fc3acceabb3eb4a71a8c0257d4fd5b2260fa4ba3e5d"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "e1e69455902607b2a7f9735295ebe452520db96dedb87db879d41ec1975867a9"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.pw.toml"
-hash = "9ab56a1b48105e0d8e457b0a1e832e6a269164ede233f7372599b1b0a6bfea27"
+hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "5d5dfc9f945f16c37926ee537fe5af702759c25e3927aae5d89682ae4d3d03f2"
+hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
-hash = "e4eb1c8da3a55c0e69019c3bc77b222483d56f8b1adeb51699dd507dc399cc2c"
+hash = "db1513d908b5ea0b6329f3da9d543eab872693fe74db023e3a13530313c851d8"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "b0127083189df42555a7f66de246ebfed79494a18d8aebfcefb651aa79f0e3d3"
+hash = "a11bee072c28f106a16bda9987613f5a361f26215cf91c75b4210c07b2cab4ef"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
+hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
 metafile = true
 
 [[files]]
