@@ -1,0 +1,13 @@
+{
+  "screenshotDirectory": "./screenshots",
+  "useCustomScreenshotDirectory": false,
+  "useMetadata": true,
+  "coordinates": false,
+  "worldName": false,
+  "mcVersion": true,
+  "shaderPack": true,
+  "resourcePacks": true,
+  "seed": false,
+  "useCustomScreenshotNamingSchema": false,
+  "screenshotNamingSchema": "\u003cdatetime\u003e"
+}

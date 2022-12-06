@@ -1,0 +1,13 @@
+name = "ScreenshotSettings"
+filename = "screenshotsettings-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M0QvZmyL/versions/oPr28f1R/screenshotsettings-1.1.1.jar"
+hash-format = "sha1"
+hash = "ff4ac8323a9138281d164b62f04826d1fe3306e0"
+
+[update]
+[update.modrinth]
+mod-id = "M0QvZmyL"
+version = "oPr28f1R"
