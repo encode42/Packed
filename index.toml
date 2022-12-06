@@ -81,6 +81,10 @@ file = "config/enhanced_bes.properties"
 hash = "d201483d8ae15f4c2add0c953145de4637377706c368ab95225a1fbdeaeb235d"
 
 [[files]]
+file = "config/equipmentcompare-common.toml"
+hash = "140389c201447eafe3ffaee8646631ffe5542a2ccf4e388eaa00cc1e02183f8d"
+
+[[files]]
 file = "config/exordium.json"
 hash = "060edb269833df63be911b24f3375eeddfa4f1fffacc476c7ee97995ecc8d1ac"
 
@@ -114,7 +118,7 @@ hash = "794567def4c57c9e1a18e34e2dd2e8a30eb02aae60ca4d175ad7120645170999"
 
 [[files]]
 file = "config/iris.properties"
-hash = "43d811163ae45a2289a74204ffaa2f2e78f213a563a7235d037514cc8d2d6116"
+hash = "d20be4fdebb7db9ae5034da65bc952b80d0b6f93cc42a20448dbf2fa4e33fcbf"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -143,6 +147,10 @@ hash = "7097ae2af6a8c467ca9c3329d837873f6f1d8209d03d81526270e6acab96b9ba"
 [[files]]
 file = "config/ordinarytweaks.json"
 hash = "7df07f1257e4346d3917219138a0b1f477a8557f2d1d52266e18015b748b9a92"
+
+[[files]]
+file = "config/screenshotsettings.json"
+hash = "53c21dd913bd93d0e60eedcefc7e3c0c0c5ecb35be4a6db3009fa92503260dd6"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -825,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "88bceebf5f7bb6dddf4773f7d5ec8210546f86a1c538160d1dd984be2a92aa07"
+hash = "08b33aba9acb55730f5fbb1cca78be7649d4dcf7affcd3aab90504e3d84f1b39"
 
 [[files]]
 file = "resourcepacks/LittleImprovementsCustom_HEPUA.zip"
@@ -870,12 +878,16 @@ file = "resourcepacks/credits.txt"
 hash = "8074de32c44fb71c55ec2001f7f139877e3c73894f8b6d27c8d319008c3902e2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip"
-hash = "127da40e68b823779b14c9de8b882552c9161bec8aa0dfcf06f0dc2ac3799e17"
+file = "shaderpacks/Complementary Reimagined (Performance).txt"
+hash = "80ca0451d16cae8c9f6a16534fe05b3c2e5d46b32aa8ba94121061062f8cad0c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip.txt"
-hash = "ab3c65a9a0a076d1ca830dfd24ab54192bae7a4e906c7aec3c35ec971e0bc488"
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
+hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip.txt"
+hash = "0572065d893941ce021034c9cec02390f9e9221f9710bd7edfea6566df56f4f1"
 
 [[files]]
 file = "shaderpacks/credits.txt"
