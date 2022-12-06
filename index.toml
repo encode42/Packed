@@ -165,6 +165,10 @@ file = "config/sodium-options.json"
 hash = "053c71867f5899ce9747479d47b7463db96c16fa29ed60784351012ed65937f2"
 
 [[files]]
+file = "config/status-effect-bars.json"
+hash = "00dffdd2dc42a0ecd75e19071b9333ba3adc7f7e485ca2d1b3bde722d862e527"
+
+[[files]]
 file = "config/stendhal/stendhal.properties"
 hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
 

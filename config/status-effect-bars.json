@@ -1,0 +1,27 @@
+{
+  "colorMode": "CUSTOM",
+  "backgroundColor": -16777216,
+  "beneficialForegroundColor": -16515328,
+  "harmfulForegroundColor": -53504,
+  "neutralForegroundColor": -2142154415,
+  "maxRemainingDuration": 2147483647,
+  "minAmbientAge": 90,
+  "hudLayout": {
+    "enabled": true,
+    "direction": "LEFT_TO_RIGHT",
+    "relativeToEnd": true,
+    "thickness": 2,
+    "collinearPadding": 4,
+    "collinearOffset": 0,
+    "orthogonalOffset": 4
+  },
+  "inventoryLayout": {
+    "enabled": false,
+    "direction": "LEFT_TO_RIGHT",
+    "relativeToEnd": true,
+    "thickness": 1,
+    "collinearPadding": 4,
+    "collinearOffset": 0,
+    "orthogonalOffset": 3
+  }
+}
