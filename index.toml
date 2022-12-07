@@ -29,18 +29,6 @@ file = ".idea/workspace.xml"
 hash = "55b051f7fbaeeb22edc426c80fe7a024f88c3b9ca2ed794185a755f7dc044c2e"
 
 [[files]]
-file = "config/advancedchat/advancedchatbox.json"
-hash = "e64f26002f8c47a012f487a023eced6ee71c7f72b7bdd7dc488632083ca14404"
-
-[[files]]
-file = "config/advancedchat/advancedchatcore.json"
-hash = "6392ecb12540f633d357fcab4c952564599e01f1ac754834f7f02590940309d6"
-
-[[files]]
-file = "config/advancedchat/advancedchatlog.json"
-hash = "90a31376e02267c3b2349618a33157998fad9f0cfa9127ab605f95e72d62a071"
-
-[[files]]
 file = "config/authme.json5"
 hash = "11255e78e6713fdb1128d9199159b0de3cfb51dce86889a59ec23e0bc9362851"
 
@@ -173,12 +161,20 @@ file = "config/stendhal/stendhal.properties"
 hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
 
 [[files]]
+file = "config/symbol-chat.json"
+hash = "40c804b7fb9839254a2b74509835859866901f27c41afdd2246b0f9c25f4c4bd"
+
+[[files]]
 file = "config/vanity_splash_text/config.toml"
 hash = "8ef2c99c96cd0766c0d008871482cc61f59dbfc9f9f0ee30ba2dccafceb08f32"
 
 [[files]]
 file = "config/waveycapes.json"
 hash = "d6ac9cc2ec5ea79cc4706a20938e6df27db72d6f48c15c8ac030f244db581677"
+
+[[files]]
+file = "config/wmch.json"
+hash = "dc03ac1d23431594c3bcb0f1cc5b2aa948bc1274064d0684c268230661b06135"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -188,21 +184,6 @@ metafile = true
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatbox.pw.toml"
-hash = "cb4ca4006397b2e2ee8d85968e144fdf4824817a690de2d61562f954a850bc8a"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatcore.pw.toml"
-hash = "b4d8bcfadc7390ef799d08e379b1ab045658fd495b15f357ea9f37ec88745071"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatlog.pw.toml"
-hash = "6a4995c4b6296b1453747c01db9962a47e1cee0bb110d11d99264c814d6ba5e4"
 metafile = true
 
 [[files]]
@@ -301,8 +282,8 @@ hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
 
 [[files]]
-file = "mods/chat-up.pw.toml"
-hash = "f2d6d0bf07893bd248bce474400e63f83d0a6c151733bf1fdb59fe8f003c25da"
+file = "mods/chat-heads.pw.toml"
+hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
 metafile = true
 
 [[files]]
@@ -823,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "e05ac0c6b80847a3fbde8bb6ffa220dabe2690fb7f77b3f04af458901095eb32"
+metafile = true
+
+[[files]]
+file = "mods/wmch.pw.toml"
+hash = "67579b1e3990030f30fc27097829389bd82e80cb65213e290099044c730fbfcb"
 metafile = true
 
 [[files]]

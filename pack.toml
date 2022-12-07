@@ -1,13 +1,13 @@
 name = "Packed"
 author = "Encode42"
-version = "5.3.0"
+version = "5.4.0"
 description = "Vanilla-styled visual, auditory, and gameplay improvements packed into the client."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8022070bb044a7e07226b884894cb142a9106c79804ed6758ae8c4d27b81e5f"
+hash = "e4fa1f29c8f6d52bb0782dff843caa0716f2c8f2dc66b3d9cd204c920e76e95d"
 
 [versions]
 minecraft = "1.19.2"

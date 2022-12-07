@@ -1,0 +1,11 @@
+{
+  "hud_color": -2147483648,
+  "button_color": -1610612736,
+  "button_hover_color": -1607454672,
+  "hide_font_button": false,
+  "hide_settings_button": false,
+  "symbol_tooltip_mode": "ON",
+  "hud_position": "RIGHT",
+  "custom_symbols": "",
+  "custom_kaomojis": []
+}
