@@ -197,6 +197,11 @@ hash = "517bdea3945777200eadeca59ca52176ead93a7e7708f209d4ab4eff50fb9f2a"
 metafile = true
 
 [[files]]
+file = "mods/alternative-world-save-location.pw.toml"
+hash = "2c260c6f515c9cad0c8986902dd9357a3e2b1e51d885ceb4478825a11ae8af00"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "d45e033df1a9ebc0eb0d66f100f1773f1800ca7c53b07e5e6881ce38965eade0"
 metafile = true
@@ -322,6 +327,11 @@ hash = "ea06464a64659ea30a6c7ac0b63375551d5a97c1fe7388f8e3a33f9810749e04"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
+metafile = true
+
+[[files]]
 file = "mods/command-block-ide.pw.toml"
 hash = "23c171d5b75def7e4ef4e7e2bcfe0dd7af92e81f3f5e3b77b88cfc3deaf93611"
 metafile = true
@@ -389,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/effective.pw.toml"
 hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
 
 [[files]]
@@ -468,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
+hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
 
 [[files]]
@@ -523,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9fe61a63d246792443a5152a6670c6af6b91b28abcebce658120eba14a58578a"
+hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
 metafile = true
 
 [[files]]
@@ -543,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -583,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "54eae21d1a19b029280faf5b4a94534dabbf25d2c2fecfe3ec05891ea55635a3"
 metafile = true
 
 [[files]]
@@ -618,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -649,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
+file = "mods/notifyme.pw.toml"
+hash = "3d5376a8e542630409f51c80ffbc75a2c8bdc04e5f2d56d54a9438c4759ce1fa"
 metafile = true
 
 [[files]]
@@ -693,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "45ae23090cdfbdf38e3655d79887225448367bf1f2107f64059101bfda12cf0e"
+hash = "566805a6420411ee7e56ebd1cbf79b2a1335fd550054bdf01e1f0b9d955cf705"
 metafile = true
 
 [[files]]
