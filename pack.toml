@@ -1,6 +1,6 @@
 name = "Packed"
 author = "Encode42"
-version = "5.5.0"
+version = "5.5.1"
 description = "Vanilla-styled visual, auditory, and gameplay improvements packed into the client."
 pack-format = "packwiz:1.1.0"
 
