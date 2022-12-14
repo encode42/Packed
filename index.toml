@@ -559,11 +559,6 @@ hash = "94690110840b6ac0d257ce753a5d2ef91f85762d7eab874a6ab1922c4d504ce5"
 metafile = true
 
 [[files]]
-file = "mods/lan-operators.pw.toml"
-hash = "85d01c9ca84d3f2d3352ad99fea477653907affc4abb3df0c0558b49d0069b64"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
