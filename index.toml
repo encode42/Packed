@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Packed.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/libraries/ComplementaryReimagined_r1_2_2.xml"
-hash = "463016f76bae24620610423dbbf680b6c68dc2968e120b3ca99776a8e7c7fdc2"
-
-[[files]]
-file = ".idea/libraries/resourcepacks.xml"
-hash = "f44a635938d670f9a4bc0d36fbed58bac2aab0d5bdf8017acadd718b76426002"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "06ab2c6e9c2bb8931ac5c74133ec880182a23fb12f2c6e2b81f0aaefbd17449b"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "1c95487d3d2c2a0bb815b1480a2275b90a30844a664af2dc90de4cd1bf4ea2ca"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "55b051f7fbaeeb22edc426c80fe7a024f88c3b9ca2ed794185a755f7dc044c2e"
-
-[[files]]
 file = "config/authme.json5"
 hash = "11255e78e6713fdb1128d9199159b0de3cfb51dce86889a59ec23e0bc9362851"
 
@@ -208,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -328,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
+hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
 metafile = true
 
 [[files]]
@@ -463,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "e523dfb543d5e9326164a0913bf73ddd5a3bd78f0741a6826db7f720b87efa2f"
+hash = "25a6b92888e5ba12f46dfe002e2d3c57999a0a4d822650f541d4df03a9aac86b"
 metafile = true
 
 [[files]]
@@ -598,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "54eae21d1a19b029280faf5b4a94534dabbf25d2c2fecfe3ec05891ea55635a3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -638,12 +610,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "13a0be2b21a37f8344229ed62b7ee1123012de6a579185c3924e3b1dbd97734e"
+hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "9fb211ebd77c73a1068990151c7b90b6c7b70bf0bdcc235e1a73dcf334fa074d"
+hash = "d0a41ad13a4a04f4fd5ef331400b35f59449e74097e405a0171b9b930c759704"
 metafile = true
 
 [[files]]
@@ -688,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "2961f0039fb0529ef5e81212a386f53e414fde5bb192e659281c5936755745ad"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
@@ -743,12 +715,17 @@ metafile = true
 
 [[files]]
 file = "mods/restore-chat-links.pw.toml"
-hash = "21f51b4d8a76a529e4bb4797fef92bba34e051451a7f756f25eeea66e8a310b5"
+hash = "3cbe54c258ef54f0374e21449cb15dddc8405927f5e54119bc5934a290398190"
 metafile = true
 
 [[files]]
 file = "mods/screenshotsettings.pw.toml"
 hash = "ea6f1bee19ad3ae4dd0ad0583d76e5a85a75f109ddc14aa003a3e50d844fb221"
+metafile = true
+
+[[files]]
+file = "mods/server-pack-unlocker.pw.toml"
+hash = "b3e5fcf6d40c3ab3f74665a176f137c89fac282a4d1bf76d242a86b61e58ee44"
 metafile = true
 
 [[files]]
@@ -783,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/stendhal.pw.toml"
-hash = "56db7a55d20cc7406e52030c4fbf1e024d2b8bb8c754158fc4b14d4c76fe0eba"
+hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
 metafile = true
 
 [[files]]
@@ -822,6 +799,11 @@ hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
 metafile = true
 
 [[files]]
+file = "mods/void-fog.pw.toml"
+hash = "1136665b108fa6d4acb207b30e595dc4cc9b7a11ca414ae118e5ca967bc1da90"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "e05ac0c6b80847a3fbde8bb6ffa220dabe2690fb7f77b3f04af458901095eb32"
 metafile = true
@@ -843,15 +825,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "08b33aba9acb55730f5fbb1cca78be7649d4dcf7affcd3aab90504e3d84f1b39"
+hash = "5bc48d6cdaa3c32282c89de886b262bcb364217d57e4b77992c5b73e9d22b904"
 
 [[files]]
 file = "resourcepacks/LittleImprovementsCustom_HEPUA.zip"
 hash = "f8746af8fdd9ffd675a5958ba45e268c82e215f5c1f9a9ffbf3ca5378067db6c"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r430001.zip"
-hash = "0a9bdea2931f6a09e1000da0b8e977991afa8375a2816509c6bcbb19436e91d9"
+file = "resourcepacks/VanillaTweaks_r662448.zip"
+hash = "a6eb417c4d4bafebb8f861dba45de0ff1750f7e5219218fde0bc118ed51602a7"
 
 [[files]]
 file = "resourcepacks/all-the-fish.pw.toml"
@@ -875,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/capitalisation-fixes.pw.toml"
-hash = "c50912b5c5b65b1f223386c98057d8e26523b053133cd1ef51204886672b8b3e"
+hash = "df5326538d05397fc6988986b83df8b9ca0d9dabc6bdeab1fab783e4814c8952"
 metafile = true
 
 [[files]]
@@ -886,10 +868,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/credits.txt"
 hash = "8074de32c44fb71c55ec2001f7f139877e3c73894f8b6d27c8d319008c3902e2"
-
-[[files]]
-file = "shaderpacks/Complementary Reimagined (Performance).txt"
-hash = "80ca0451d16cae8c9f6a16534fe05b3c2e5d46b32aa8ba94121061062f8cad0c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
