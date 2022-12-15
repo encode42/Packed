@@ -1,14 +1,14 @@
 name = "Capitalisation Fixes"
-filename = "Capitalisation-Fixes-v2.16-1.19.2.zip"
+filename = "Capitalisation-Fixes-v2.16-1.19.3.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JdXoJZy7/versions/Xt4wLuQQ/Capitalisation-Fixes-v2.16-1.19.2.zip"
+url = "https://cdn.modrinth.com/data/JdXoJZy7/versions/ufhrRpID/Capitalisation-Fixes-v2.16-1.19.3.zip"
 hash-format = "sha1"
-hash = "f570ee32664e5b8055d4a490d2f8d7493e9f9fdf"
+hash = "8e9432856c321aa1a77de69aea3dad6a5bbfcc54"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "JdXoJZy7"
-version = "Xt4wLuQQ"
+version = "ufhrRpID"

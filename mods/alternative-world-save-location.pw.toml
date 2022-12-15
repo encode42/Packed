@@ -1,13 +1,13 @@
 name = "Alternative World Save Location"
-filename = "alternativeworldsavelocation-fabric_1.19.2-1.9.jar"
+filename = "alternativeworldsavelocation-fabric_1.19.3-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ENWn9izD/versions/WFFyFV3A/alternativeworldsavelocation-fabric_1.19.2-1.9.jar"
+url = "https://cdn.modrinth.com/data/ENWn9izD/versions/Nbg2mabw/alternativeworldsavelocation-fabric_1.19.3-2.0.jar"
 hash-format = "sha1"
-hash = "337afab81c9a1f5544276ca1ef8c920a0bc98dd4"
+hash = "6f0a2e57ddf90af4e1c39919ada51184da870d09"
 
 [update]
 [update.modrinth]
 mod-id = "ENWn9izD"
-version = "WFFyFV3A"
+version = "Nbg2mabw"

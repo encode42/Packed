@@ -1,13 +1,13 @@
 name = "GraphUtil"
-filename = "graphutil-fabric-1.0.0-mc1.19.jar"
+filename = "graphutil-fabric-1.0.0-mc1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cpBmCs66/versions/65F3SBor/graphutil-fabric-1.0.0-mc1.19.jar"
+url = "https://cdn.modrinth.com/data/cpBmCs66/versions/nAmjd2du/graphutil-fabric-1.0.0-mc1.19.3.jar"
 hash-format = "sha1"
-hash = "86bedd0e3e988b3d03f4ff950c01716059653ec0"
+hash = "1467d640d5e335fc7401da643bdb41b819d1eef0"
 
 [update]
 [update.modrinth]
 mod-id = "cpBmCs66"
-version = "65F3SBor"
+version = "nAmjd2du"

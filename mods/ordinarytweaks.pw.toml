@@ -1,13 +1,13 @@
 name = "SomeOrdinaryTweaks"
-filename = "some-ordinary-tweaks-1.6.0.jar"
+filename = "some-ordinary-tweaks-1.6.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/DdIyvPXF/some-ordinary-tweaks-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/eWtjdA7Z/some-ordinary-tweaks-1.6.1.jar"
 hash-format = "sha1"
-hash = "86a0f253494a3bd239141d0ebdf01145c4727629"
+hash = "f04ed28e62fa1097e33a2d83ba8ee77c7bc5ce81"
 
 [update]
 [update.modrinth]
 mod-id = "LNeXYJOg"
-version = "DdIyvPXF"
+version = "eWtjdA7Z"
