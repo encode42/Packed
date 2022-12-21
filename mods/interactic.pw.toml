@@ -1,13 +1,13 @@
 name = "Interactic"
-filename = "interactic-0.1.11+1.19.jar"
+filename = "interactic-0.1.11+1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ErpAAAaf/versions/7LmnFHXo/interactic-0.1.11%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/ErpAAAaf/versions/tj8ZH9jV/interactic-0.1.11%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "08ad06f42de2a29be5768c233dedf957ec7355c1"
+hash = "b8f5b28fafc659e621229b7b3b48fa05d51ac828"
 
 [update]
 [update.modrinth]
 mod-id = "ErpAAAaf"
-version = "7LmnFHXo"
+version = "tj8ZH9jV"
