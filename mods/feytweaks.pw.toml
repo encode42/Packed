@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/1.19-1.2.3/feytweaks-1.19-1.2.3.jar"
 hash-format = "sha1"
 hash = "6c68ce27957495d4d6e158a395d25371fdb36ca3"
-mode = ""
 
 [update]
 [update.modrinth]

@@ -1,0 +1,14 @@
+name = "EBE Models OptimizedPack"
+filename = "EBE-Models-OptimizedPack_v1.0-1.19.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSf7RRyk/versions/cY1g9YkF/EBE-Models-OptimizedPack_v1.0-1.19.zip"
+hash-format = "sha1"
+hash = "8d69c6e46555148e045db7f03e3b47a1e3e633ae"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "cSf7RRyk"
+version = "cY1g9YkF"

@@ -1,0 +1,14 @@
+name = "Vibrating Wither Fix"
+filename = "Vibrating Wither Fix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8cIUYFmo/versions/HTNymURn/Vibrating%20Wither%20Fix.zip"
+hash-format = "sha1"
+hash = "d464096c4b4f1d2425c5ec5cdb79aedff839a104"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "8cIUYFmo"
+version = "HTNymURn"

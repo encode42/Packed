@@ -1,0 +1,13 @@
+name = "Spell Checker"
+filename = "SpellChecker-fabric-1.19-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xrdXfWii/versions/pJ6j1loD/SpellChecker-fabric-1.19-2.1.0.jar"
+hash-format = "sha1"
+hash = "aed41f6176dcddd90bd87433df3b3aa6105411cf"
+
+[update]
+[update.modrinth]
+mod-id = "xrdXfWii"
+version = "pJ6j1loD"
