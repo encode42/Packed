@@ -1,13 +1,13 @@
 name = "Where's My Chat History? (Chat Tweaks)"
-filename = "1.19.x-wmch-1.19.2-1.5.3.jar"
+filename = "chatpatches-192.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/243ESwKL/1.19.x-wmch-1.19.2-1.5.3.jar"
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mkSBPVio/chatpatches-192.2.1.jar"
 hash-format = "sha1"
-hash = "8665720c1c9a756bb592cdec49d3508b60528533"
+hash = "27bd7e4d689b285a25bd06beeca75ac5927801a1"
 
 [update]
 [update.modrinth]
 mod-id = "MOqt4Z5n"
-version = "243ESwKL"
+version = "mkSBPVio"

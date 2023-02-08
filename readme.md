@@ -18,13 +18,11 @@ This modpack focuses on improving the client-side experience, while maintaining 
 **Visual improvements**
 - Dark mode by default
 - Shader pack preset to match vanilla styles
-- More environmental and actionable particles
 - Armor bar reflects what's being worn
 - Player models are significantly improved
 - Environments are more interactive and immersive
 
 **Auditory improvements**
-- Ambient sounds in various biomes
 - Realistic player and entity footsteps
 - Additional sounds when interacting with your environment
 - Improvements to the in-game music
@@ -92,14 +90,7 @@ This pack uses a few resources located outside of Modrinth's ecosystem. As such,
 - [Illuminations](https://github.com/ladysnake/illuminations)
 - [Effective](https://github.com/Ladysnake/Effective)
 
-**Resource Packs**  
-Shader Packs:
-- [Complementary Reimagined Shaders](https://www.complementary.dev/reimagined/)
-  - Pre-configured to be vanilla-styled.
-
 Resource Packs:
 - [VanillaTweaks](https://vanillatweaks.net/)
   - Pre-configured with general tweaks.
 - [Little Improvments: Custom](https://littleimprovements-custom.tk/)
-
-The authors of these projects are not responsible if you encounter issues with them while using this modpack!

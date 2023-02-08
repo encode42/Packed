@@ -1,5 +1,5 @@
 version:3120
-quilt_available_resource_packs:["charmonium/journeyman","continuity/default","continuity/glass_pane_culling_fix","file/Corrected Mob Heads (1.19 - 1.19.2).zip","vanilla","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","programer_art","file/all-the-fish.zip","file/Blockstates+V.1.3.zip","file/axolotl_bucket_variants-1.19.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Balanced-Music.zip","file/Capitalisation-Fixes-v2.17-1.19.2.zip","file/EBE-Models-OptimizedPack_v1.0-1.19.zip","file/Ore Variants v2.6.zip","file/VanillaTweaks_r635507.zip","file/Vibrating Wither Fix.zip"]
+quilt_available_resource_packs:["charmonium/journeyman","continuity/default","continuity/glass_pane_culling_fix","file/Corrected Mob Heads (1.19 - 1.19.2).zip","vanilla","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","programer_art","file/all-the-fish.zip","file/axolotl_bucket_variants-1.19.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Balanced-Music.zip","file/EBE-Models-OptimizedPack_v1.0-1.19.zip","file/Ore Variants v2.6.zip","file/VanillaTweaks_r635507.zip","file/Vibrating Wither Fix.zip","file/Blockstates+V.1.3.1.zip","file/Capitalisation-Fixes-v2.18-1.19.2.zip"]
 autoJump:false
 autoSuggestions:true
 enableVsync:true
@@ -19,12 +19,11 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/VanillaTweaks_r635507.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Ore Variants v2.6.zip","continuity/default","lambdabettergrass/default","illuminations/lowerres","file/axolotl_bucket_variants-1.19.zip","file/all-the-fish.zip","file/EBE-Models-OptimizedPack_v1.0-1.19.zip","continuity/glass_pane_culling_fix","charmonium/journeyman","file/Balanced-Music.zip","file/Vibrating Wither Fix.zip","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.17-1.19.2.zip"]
-incompatibleResourcePacks:["file/VanillaTweaks_r635507.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Ore Variants v2.6.zip","file/all-the-fish.zip"]
+resourcePacks:["vanilla","file/VanillaTweaks_r635507.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Blockstates+V.1.3.1.zip","file/Ore Variants v2.6.zip","continuity/default","lambdabettergrass/default","illuminations/lowerres","file/axolotl_bucket_variants-1.19.zip","file/all-the-fish.zip","file/EBE-Models-OptimizedPack_v1.0-1.19.zip","continuity/glass_pane_culling_fix","charmonium/journeyman","file/Balanced-Music.zip","file/Vibrating Wither Fix.zip","file/Corrected Mob Heads (1.19 - 1.19.2).zip","file/Capitalisation-Fixes-v2.18-1.19.2.zip"]
+incompatibleResourcePacks:["file/VanillaTweaks_r635507.zip","file/LittleImprovementsCustom_HEPUA.zip","file/Blockstates+V.1.3.1.zip","file/Ore Variants v2.6.zip","file/all-the-fish.zip"]
 chatLineSpacing:0.05
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
-advancedItemTooltips:true
 mipmapLevels:0
 tutorialStep:none
 skipMultiplayerWarning:true

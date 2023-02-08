@@ -1,6 +1,6 @@
 name = "ALL THE FISH"
 filename = "all-the-fish.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/wWFu6bhI/versions/1/all-the-fish.zip"

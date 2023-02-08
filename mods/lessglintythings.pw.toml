@@ -1,0 +1,13 @@
+name = "LessGlintyThings"
+filename = "lessglintythings-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sRkxSKOU/versions/ChbYqWEE/lessglintythings-1.3.1.jar"
+hash-format = "sha1"
+hash = "38e11e73abff337e76ea57a73af7750bb4f823c9"
+
+[update]
+[update.modrinth]
+mod-id = "sRkxSKOU"
+version = "ChbYqWEE"

@@ -1,6 +1,6 @@
 name = "Vibrating Wither Fix"
 filename = "Vibrating Wither Fix.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/8cIUYFmo/versions/HTNymURn/Vibrating%20Wither%20Fix.zip"

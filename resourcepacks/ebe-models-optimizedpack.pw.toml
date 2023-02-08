@@ -1,6 +1,6 @@
 name = "EBE Models OptimizedPack"
 filename = "EBE-Models-OptimizedPack_v1.0-1.19.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/cSf7RRyk/versions/cY1g9YkF/EBE-Models-OptimizedPack_v1.0-1.19.zip"

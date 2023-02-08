@@ -1,0 +1,3 @@
+removeBookGlint = true
+removeEnchantedBookGlint = false
+removePotionGlint = true

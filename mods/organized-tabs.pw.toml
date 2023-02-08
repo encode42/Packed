@@ -1,6 +1,6 @@
 name = "Organized Tabs [Fabric]"
 filename = "organized-tabs-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/8N5lDLoF/versions/1.0.1_1.19.1/organized-tabs-1.0.1.jar"

@@ -1,0 +1,13 @@
+name = "Multiplayer Button"
+filename = "multiplayer-button-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/14r88oi6/versions/9G3c5iMi/multiplayer-button-1.0.0.jar"
+hash-format = "sha1"
+hash = "678b4e5afd4538e37f486ff86cb48bb0b8d75b44"
+
+[update]
+[update.modrinth]
+mod-id = "14r88oi6"
+version = "9G3c5iMi"

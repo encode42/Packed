@@ -1,14 +1,13 @@
 name = "Dark Graph"
-filename = "dark-graph-1.0.2.jar"
+filename = "dark-graph-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/E7uiJ5bx/versions/1.0.2/dark-graph-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/E7uiJ5bx/versions/hwYU1Or1/dark-graph-1.0.3.jar"
 hash-format = "sha1"
-hash = "341244de5d206f490542d07ddc7393c7e0aefd5c"
-mode = ""
+hash = "0e701dae691c37ffde9ff78cfa398ad0e1f5b9a5"
 
 [update]
 [update.modrinth]
 mod-id = "E7uiJ5bx"
-version = "KF28b3TT"
+version = "hwYU1Or1"

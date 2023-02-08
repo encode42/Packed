@@ -1,0 +1,13 @@
+name = "Organizable Play Screens (Fabric)"
+filename = "organizable-play-screens-1.19.2-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zKrZtg3n/versions/1NTizKEk/organizable-play-screens-1.19.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "d9d8cd7651434f533731d024cf032f21d4cf80d3"
+
+[update]
+[update.modrinth]
+mod-id = "zKrZtg3n"
+version = "1NTizKEk"

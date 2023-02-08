@@ -1,6 +1,6 @@
 name = "Ore Variants"
 filename = "Ore Variants v2.6.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LgvDiFDR/versions/y4lsTlAM/Ore%20Variants%20v2.6.zip"
