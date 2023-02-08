@@ -90,7 +90,7 @@ This pack uses a few resources located outside of Modrinth's ecosystem. As such,
 - [Illuminations](https://github.com/ladysnake/illuminations)
 - [Effective](https://github.com/Ladysnake/Effective)
 
-Resource Packs:
+**Resource Packs**  
 - [VanillaTweaks](https://vanillatweaks.net/)
   - Pre-configured with general tweaks.
 - [Little Improvments: Custom](https://littleimprovements-custom.tk/)
