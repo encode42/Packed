@@ -1,0 +1,14 @@
+name = "Compass Consistency"
+filename = "compass-consistency.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r8ojklPw/versions/4JreMf1z/compass-consistency.zip"
+hash-format = "sha1"
+hash = "2dbfc797c828c3637584b1d386629be2c16de5fb"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "r8ojklPw"
+version = "4JreMf1z"

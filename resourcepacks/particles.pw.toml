@@ -1,0 +1,14 @@
+name = "Particles +"
+filename = "Particles+V.1.2.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7KG4X7U/versions/tJdkvGMj/Particles%2BV.1.2.3.zip"
+hash-format = "sha1"
+hash = "5ed38ab6da6d870bfaa759e9bb3f54ebd1960a0f"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "M7KG4X7U"
+version = "tJdkvGMj"

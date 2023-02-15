@@ -1,0 +1,14 @@
+name = "Chat +"
+filename = "Chat+V.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yq3N3xqC/versions/3zZwHWNE/Chat%2BV.1.0.zip"
+hash-format = "sha1"
+hash = "c7c24e7198214fc8f97e0e74c6b0bc2b918e2acc"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Yq3N3xqC"
+version = "3zZwHWNE"

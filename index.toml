@@ -58,7 +58,7 @@ hash = "a3bcb8d8cf2b7d51651dfe9c9758e1b0a27e851045b4a95a27a4559d99058b68"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "d201483d8ae15f4c2add0c953145de4637377706c368ab95225a1fbdeaeb235d"
+hash = "3f889b4dbb41ddc5bdea42ec07d1a05c5ca400f1a21a54923b9ca7599a7ad632"
 
 [[files]]
 file = "config/exordium.json"
@@ -94,7 +94,7 @@ hash = "794567def4c57c9e1a18e34e2dd2e8a30eb02aae60ca4d175ad7120645170999"
 
 [[files]]
 file = "config/iris.properties"
-hash = "67f3a983044f3f76dbefd6a4add7e0a46e8d54f68d32e86fb496362133910475"
+hash = "f09ed7ad34a55f55ceb0f8face2eaffbd5c54f0f7a655ffd92f4a9697a32717a"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
+hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a96d88f4bd9e5043eaca8a38d643c29e9cd5c2e185d518723676e91bb61bf7e0"
+hash = "7d7c8dea9bb287e39f6707e3f2f8bdd9d4db32f054e0c7bb877060c43527f968"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "a83cc72e144ad426bd7c14e03267fe669846388f26e7fed990a520564fbcbe47"
+hash = "f1e9426d24de85d390795f9557a52fbc68a6131062534cdd0ed1247d9d89a5c0"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
+hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
@@ -935,15 +935,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a466e01f0d3a15ec6569c0386e31f4ac615810526cec2a42f47faadb6674db98"
+hash = "184b0b397f02efa55658362bb21000901508acf3ff9a553607e806d30b429301"
 
 [[files]]
-file = "resourcepacks/LittleImprovementsCustom_HEPUA.zip"
-hash = "f8746af8fdd9ffd675a5958ba45e268c82e215f5c1f9a9ffbf3ca5378067db6c"
+file = "resourcepacks/LittleImprovementsCustom_8BDAL.zip"
+hash = "f805d7407e7ffa51fa161bc814e5f10f9f1e87196d3eed18d9d80a92d6cc7620"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r635507.zip"
-hash = "bd188c3189777c487f4e4efc570134ede99ba6aa65820323e91dd3df6ea36e7f"
+file = "resourcepacks/VanillaTweaks_r436903.zip"
+hash = "fe6b955217008d24f538d5e164c050dfa57633be0441c4be1f4044bc0508e1ac"
 
 [[files]]
 file = "resourcepacks/all-the-fish.pw.toml"
@@ -966,8 +966,23 @@ hash = "b37907e1da9dbd8c469c87e58c9f7fa3a6e937cb5b9346127dc91a79766768da"
 metafile = true
 
 [[files]]
+file = "resourcepacks/blocky-shadows.pw.toml"
+hash = "d58d4b74b450bc70e0934cbad322fb7fd7036e570110c99d2efb2c4e5efe41ea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/capitalisation-fixes.pw.toml"
 hash = "136b775f74c67c02e3d44b2039562ded41291481ce82b48b63798d0cb4a981f2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat.pw.toml"
+hash = "97876c8ab9a46b0c16399fba274c3bdbb79f5d488fb4591cb4503ac8128449e9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compass-consistency.pw.toml"
+hash = "cd82458446962213688e45d878bf561171d4c8563b37736800bdcd2fd85f04e6"
 metafile = true
 
 [[files]]
@@ -977,11 +992,21 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/credits.txt"
-hash = "8074de32c44fb71c55ec2001f7f139877e3c73894f8b6d27c8d319008c3902e2"
+hash = "7efd22442bf972d9f68f35900f75f2858103a57fa25e60429dda44a7bbc7c4a2"
 
 [[files]]
 file = "resourcepacks/ebe-models-optimizedpack.pw.toml"
 hash = "b2ea1a631616452a49eedbacbd553bc451e8c084fb1853beb81fdadb94db77e6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fishing-hook-bobber-3d.pw.toml"
+hash = "624161b22c339501adb882d027fdfee7073e0cd8ab675fd49c3831061eb6ff4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hidey-hidey-debris.pw.toml"
+hash = "5ac5b161e22ab4e7c10f19f9ae302202167641da94a43469b43137460d025e01"
 metafile = true
 
 [[files]]
@@ -990,8 +1015,28 @@ hash = "ac19bbaa6c1292abc8036d51fc5668f6d0b195e36a2cd16623f75e70f849222a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/particles.pw.toml"
+hash = "750a1c87b01c15614c949b23503f8b5b65556bd6a7fb2ab75787b4d76ec66bd5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/string-names.pw.toml"
+hash = "389bde687f03665948613c2f778e0be2c3a2348a5a2a3c370ecd0966679ed754"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-improve.pw.toml"
+hash = "d40bd40419ced2f8b761fdf0a79938df27fceb7b54046236de2cbc86785f28cd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/vibrating-wither-fix.pw.toml"
 hash = "7686d0acb6a576532b9b0a65254a895f1b6a4e9645880cdf2731bb40c6ee166c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "477bcbe49c6a53465ceba377095775d33732f1ffb9592570dc380840f6a7e9e3"
 metafile = true
 
 [[files]]

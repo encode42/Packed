@@ -1,0 +1,14 @@
+name = "String Names"
+filename = "string_names_1.19.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FYkpsm3D/versions/7diByl38/string_names_1.19.zip"
+hash-format = "sha1"
+hash = "1589e73591dea666c91b4a81646b6be8fe08b4a3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "FYkpsm3D"
+version = "7diByl38"

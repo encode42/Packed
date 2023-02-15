@@ -1,0 +1,14 @@
+name = "Blocky Shadows"
+filename = "Blocky-Shadows-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bk4M9RJK/versions/gw8dQndl/Blocky-Shadows-1.0.zip"
+hash-format = "sha1"
+hash = "d36a732deb1f75dc3976dffe489ca8270b83aef2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "bk4M9RJK"
+version = "gw8dQndl"

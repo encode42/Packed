@@ -1,0 +1,14 @@
+name = "Hidey Hidey Debris"
+filename = "Hidey Hidey Debris.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b7lRoBWr/versions/wWUsHPQ9/Hidey%20Hidey%20Debris.zip"
+hash-format = "sha1"
+hash = "8e30ff20f12f3c842cf0075d423f8c1d4ac3036c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "b7lRoBWr"
+version = "wWUsHPQ9"

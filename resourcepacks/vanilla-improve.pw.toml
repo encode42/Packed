@@ -1,0 +1,14 @@
+name = "Vanilla Improve"
+filename = "[1.19.x]VanillaImprove-beta3.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6U76tXst/versions/1ebVllQ3/%5B1.19.x%5DVanillaImprove-beta3.0.zip"
+hash-format = "sha1"
+hash = "57a3b976fb1d591a20222e926e4354438db38b76"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "6U76tXst"
+version = "1ebVllQ3"
